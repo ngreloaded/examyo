@@ -1,0 +1,46 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="css/mock_style.css" />
+		<link rel="stylesheet" href="css/keyboard.css" />
+		<link rel="stylesheet" href="css/number_style.css" />
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/top.js"></script>
+		<script src="js/keyboard.js" type="text/javascript"></script>
+		<title>Login - Assessment Examination Center</title>
+		<script>
+		 function openerNew(){
+            var params =  'top=0, left=0';
+            params += ', width='+screen.width+', height='+screen.height+',statusbar=no,toolbar=no,location=no,directories=no,menubar=no,resizable=no';
+            params += ', scrollbars=yes, status=no, fullscreen=yes';
+            newwin=window.open("instructions.html","_blank",params);
+            if (window.focus) {newwin.focus()}
+	            return false;
+        }
+		</script>
+	</head>
+	<body onselectstart="return false;" ondrag="return false;">
+	<div id="container">
+			<div id="header">
+					<div style="height:100%;float:left"><img src="images/mock_header.gif" style="height:100%" alt=""/></div><div style="height:100%;float: right"> </div>
+			</div>
+			<div id="mainleft">
+			<br/>
+			<span><h2>Welcome to Online Mock Test Assessment</h2></span>
+			<br/>
+			<br/>
+			<center>
+				<table cellpadding="5">
+					<tr><td style="text-align : right"><h2> Login</h2></td> <td style="text-align : left"> &nbsp;</td></tr>
+					<tr><td style="text-align : right" class="loginLabel">Roll No : </td><td style="text-align : left"> <input size="20" style="font-family:Arial" type="text" value="Guest" class="keyboardInput loginText" readonly /></td></tr>
+					<tr><td style="text-align : right"  class="loginLabel">Password :  </td><td style="text-align : left"> <input size="20"  type="password" value="Guest" class="keyboardInput loginText" style="font-family:Arial" readonly /></td></tr>
+					<tr><td> &nbsp;</td><td><input type="button" class="button" onclick="openerNew()" value="Sign In"></td></tr>
+				</table>
+			</center>
+			</div>
+			<div id="mainright" style="border-left:1px #000 solid">
+			</div>
+	</div>
+	<div id="footer"></div>
+	</body>
+</html>
