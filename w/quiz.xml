@@ -1,0 +1,1196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QUIZ>
+<mcQName><![CDATA[Multiple Choice Question]]></mcQName>
+<msQName><![CDATA[ ]]></msQName>
+<compQName><![CDATA[Comprehension Question]]></compQName>
+<saQName><![CDATA[ ]]></saQName>
+<laQName><![CDATA[ ]]></laQName>
+<subjQName><![CDATA[ ]]></subjQName>
+<typingQName><![CDATA[ ]]></typingQName>
+<programingQName><![CDATA[ ]]></programingQName>
+<SHOWMARKS><![CDATA[NO]]></SHOWMARKS>
+<GROUP BREAKTIME="0" GROUPID="1" ISEDITABLE="N" ISVIEWABLE="Y" MAXTIME="0" MINTIME="170">
+<GROUPNAME><![CDATA[Group 1]]></GROUPNAME>
+<MAXNOOPTSEC><![CDATA[0]]></MAXNOOPTSEC>
+<SECTIONDETAILS>
+<SECTION ISOPTIONAL="N" MAXQUESTOANS="50" TYPE="ONLINE">
+<secName><![CDATA[Quantitative Ability & Data Interpretation]]></secName>
+<LANGID><![CDATA[1]]></LANGID>
+<LANGNAME><![CDATA[English]]></LANGNAME>
+<secID><![CDATA[1]]></secID>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c1.jpg "/>]]></NAME>
+<ID><![CDATA[1]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d1_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d1_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d1_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d1_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A new flag is to be designed with six vertical stripes using some or all of the colours yellow, green, blue, and red. Then, the number of ways this can be done such that no two adjacent stripes have the same colour is]]></NAME>
+<ID><![CDATA[2]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[12 X 81]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[16 X 192]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[20 X 125]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[24 X 216]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c3.jpg "/>]]></NAME>
+<ID><![CDATA[3]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d3_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d3_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d3_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d3_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c4.jpg "/>]]></NAME>
+<ID><![CDATA[4]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d4_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d4_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d4_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d4_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c5.jpg "/>]]></NAME>
+<ID><![CDATA[5]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d5_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d5_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d5_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d5_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c6.jpg "/>]]></NAME>
+<ID><![CDATA[6]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d6_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d6_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d6_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d6_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c7.jpg "/>]]></NAME>
+<ID><![CDATA[7]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d7_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d7_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d7_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d7_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d7_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c8.jpg "/>]]></NAME>
+<ID><![CDATA[8]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d8_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d8_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d8_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d8_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d8_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Consider the set S={1,2,3,...,1000}. How many arithmetic progressions can be formed from the elements of S that start with 1 and end with 1000 and have atleast 3 elements?]]></NAME>
+<ID><![CDATA[9]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[3]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[4]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[6]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[7]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[8]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[What values of x satisfy x<sup>23</sup> + x<sup>1/3</sup>- 2 &#8804 0?]]></NAME>
+<ID><![CDATA[10]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[-8 &#8804 x &#8804 1]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[-1 &#8804 x &#8804 8]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[1 < x < 8]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[1 &#8804 x &#8804 8]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[-8 &#8804 x &#8804 8]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[If f(x)= max(2x + 1,3 - 4x), where x is any real number. Then the minimum possible value of f(x) is:]]></NAME>
+<ID><![CDATA[11]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d11_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d11_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d11_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d11_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d11_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c12.jpg "/>]]></NAME>
+<ID><![CDATA[12]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d12_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d12_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d12_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d12_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d12_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c13.jpg "/>]]></NAME>
+<ID><![CDATA[13]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d13_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d13_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d13_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d13_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d13_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Let f(x) be function satisfying f(x)f(y) = f(xy) for all real x,y. If f(2) = 4, then what is the value of f(1/2)?]]></NAME>
+<ID><![CDATA[14]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d14_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d14_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d14_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d14_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d14_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[What are the last two digits of 7<sup>2008</sup>]]></NAME>
+<ID><![CDATA[15]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[21]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[61]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[1]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[41]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[81]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[If the roots of equation x<sup>3</sup>-ax<sup>2</sup>+ bx - c = 0 are three consecutive integers, then what is the smallest possible value of b?]]></NAME>
+<ID><![CDATA[16]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d16_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d16_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d16_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d16_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d16_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Consider obtuse-angled triangles with sides 8 cm, 15 cm and x cm. If x is an integer, then<br/>how many such triangles exist?]]></NAME>
+<ID><![CDATA[17]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[5]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[21]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[10]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[15]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[14]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[In a triangle ABC, the lengths of the sides AB and AC equal 17.5 cm and 9 cm respectively.<br/>Let D be a point on the line segment BC such that  is perpendicular to BC. If AD = 3 Cm.<br/>then what is the radius (in cm) of the circle circumscribing the triangle ABC?]]></NAME>
+<ID><![CDATA[18]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[17.05]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[27.85]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[22.45]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[32.25]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[26.25]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Consider a square ABCD with midpoints E, F, G, H of AB, BC, CD and DA respectively.<br/>Let L denote the line passing through F and H. Consider points P and Q, on L and inside ABCD,<br/>such that the angles APD and BQC both equal 120°. What is the ratio of the area of ABQCDP to<br/>the remaining area inside ABCD?]]></NAME>
+<ID><![CDATA[19]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d19_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d19_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d19_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d19_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d19_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Two circles with centres P and Q cut each other at two distinct points A and B. The circles have<br/>the same radii and neither P nor Q falls within the intersection of the circles. What is the smallest<br/>range that includes all possible values of the angle AQP in degrees?]]></NAME>
+<ID><![CDATA[20]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Between 0 and 30]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Between 0 and 60]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Between 0 and 75]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Between 0 and 45]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Between 0 and 90]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A semi-circle is drawn with AB as its diameter. From C, a point on AB, a line perpendicular to AB is<br/>drawn meeting the circumference of the semi-circle at D. Given that AC= 2 em and CD=6 em. the area of<br/>the semi-circle (in sq. cm) will be:]]></NAME>
+<ID><![CDATA[21]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d21_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d21_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d21_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d21_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d21_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A jogging park has two identical circular tracks touching each other, and a rectangular track enclosing the two circles. The edges of the rectangles are tangential to the circles. Two friends, A and B. start jogging simultaneously from point where one of the circular tracks touches the smaller side of the rectangular track. A jogs along the rectangular track, while B jogs along the two circular tracks in a figure eight. Approximately, how much faster than A does B have to run, so that they take the same time to return to their starting point?]]></NAME>
+<ID><![CDATA[22]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d22_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d22_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d22_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d22_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A rectangular sheet of paper, when halved by folding it at the mid point of its longer side, results in a rectangle, whose longer and shorter sides are in the same proportions as the longer and shorter sides of the original rectangle. If the shorter side of the original rectangle is 2, what is the area of the smaller rectangle?]]></NAME>
+<ID><![CDATA[23]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d23_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d23_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d23_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d23_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c24.jpg "/>]]></NAME>
+<ID><![CDATA[24]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d24_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d24_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d24_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d24_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c25.jpg "/>]]></NAME>
+<ID><![CDATA[25]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d25_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d25_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d25_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d25_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A milkman mixes 20 litres of water with 80 litres of milk. After selling one-fourth of this mixture, he adds water to replenish the quantity that he has sold. What is the current proportion of water to milk?]]></NAME>
+<ID><![CDATA[26]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d26_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d26_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d26_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d26_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[If a man cycles at 10km/hr, then he arrives at a certain place at 1 p.m. If he cycles at 15km/hr, he will arrive at the same place at 11 a.m. At what speed must he cycle to get there at noon?]]></NAME>
+<ID><![CDATA[27]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[11 km/hr]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[12 km/hr]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[13 km/hr]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[14 km/hr]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Two boats traveling at 5 and 10 kms per hour, head directly towards each other. They begin at a distance of 20<br/>kms from each other. How far apart are they (in kms) one minute before they collide?]]></NAME>
+<ID><![CDATA[28]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d28_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d28_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d28_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d28_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c29.jpg "/>]]></NAME>
+<ID><![CDATA[29]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d29_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d29_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d29_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d29_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c30.jpg "/>]]></NAME>
+<ID><![CDATA[30]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d30_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d30_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d30_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d30_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c31.jpg "/>]]></NAME>
+<ID><![CDATA[31]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d31_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d31_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d31_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d31_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[A chemical plant has four tanks ( A,B,C,and D), cach containing 1000 liters of a chemical.The chemical is being pumped from one tank to another as follows:<br/>                                  <br/>                    From A to B @20 litres/minute<br/>                    From A to B @20 litres/minute<br/>                    From A to B @20 litres/minute<br/>                    From A to B @20 litres/minute<br/>                    From A to B @20 litres/minute<br/>                    From A to B @20 litres/minute<br/> Which  tank gets empited first.and how long it take (in minute) to get empty after pumping starts?]]></NAME>
+<ID><![CDATA[32]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A,16.66]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[C,20]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[D,20]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[D,25]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[Three Englishmen and three Frenchmen work from the same company.Each of them knows a secret not known to others. They need to exchnage these secrets over person-to-person phone calls so that eventually catch person knows all six secrets. None of the Frenchmen knows English,and only one Englishmen knows French.what is the minimum number of phone calls needed for the above purpose?]]></NAME>
+<ID><![CDATA[33]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[5]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[10]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[9]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[15]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c34.jpg "/>]]></NAME>
+<ID><![CDATA[34]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d34_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d34_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d34_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d34_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d34_5.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c35_to_38.jpg "/> @@&& <img src="756/2/images/c35.jpg "/>]]></NAME>
+<ID><![CDATA[36]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d35_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d35_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d35_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d35_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c35_to_38.jpg "/> @@&& <img src="756/2/images/c36.jpg "/>]]></NAME>
+<ID><![CDATA[37]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d36_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d36_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d36_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d36_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c35_to_38.jpg "/> @@&& <img src="756/2/images/c37.jpg "/>]]></NAME>
+<ID><![CDATA[38]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d37_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d37_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d37_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d37_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c35_to_38.jpg "/> @@&& <img src="756/2/images/c38.jpg "/>]]></NAME>
+<ID><![CDATA[39]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d38_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d38_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d38_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d38_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c39_to_42.jpg "/> @@&& <img src="756/2/images/c39.jpg "/>]]></NAME>
+<ID><![CDATA[41]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d39_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d39_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d39_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d39_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c39_to_42.jpg "/> @@&& <img src="756/2/images/c40.jpg "/>]]></NAME>
+<ID><![CDATA[42]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d40_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d40_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d40_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d40_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c39_to_42.jpg "/> @@&& <img src="756/2/images/c41.jpg "/>]]></NAME>
+<ID><![CDATA[43]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d41_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d41_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d41_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d41_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c39_to_42.jpg "/> @@&& <img src="756/2/images/c42.jpg "/>]]></NAME>
+<ID><![CDATA[44]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d42_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d42_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d42_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d42_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c43_to_46.jpg "/> @@&& <img src="756/2/images/c43.jpg "/>]]></NAME>
+<ID><![CDATA[46]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d43_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d43_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d43_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d43_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c43_to_46.jpg "/> @@&& <img src="756/2/images/c44.jpg "/>]]></NAME>
+<ID><![CDATA[47]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d44_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d44_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d44_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d44_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c43_to_46.jpg "/> @@&& <img src="756/2/images/c45.jpg "/>]]></NAME>
+<ID><![CDATA[48]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[2000]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[2001]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[2002]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[2003]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c43_to_46.jpg "/> @@&& <img src="756/2/images/c46.jpg "/>]]></NAME>
+<ID><![CDATA[49]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[25]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[26]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[27]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[28]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c47_to_50.jpg "/> @@&& <img src="756/2/images/c47.jpg "/>]]></NAME>
+<ID><![CDATA[51]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[40]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[45]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[50]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[55]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[60]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c47_to_50.jpg "/> @@&& <img src="756/2/images/c48.jpg "/>]]></NAME>
+<ID><![CDATA[52]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[less than 8]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[10]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[12]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[14]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[16]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c47_to_50.jpg "/> @@&& <img src="756/2/images/c49.jpg "/>]]></NAME>
+<ID><![CDATA[53]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[40]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[45]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[50]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[55]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[60]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[<img src="756/2/images/c47_to_50.jpg "/> @@&& <img src="756/2/images/c50.jpg "/>]]></NAME>
+<ID><![CDATA[54]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d50_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d50_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d50_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d50_4.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[<img src="756/2/images/d50_5.jpg "/>]]></ANSWER>
+</QUESTION>
+</SECTION>
+<SECTION ISOPTIONAL="N" MAXQUESTOANS="50" TYPE="ONLINE">
+<secName><![CDATA[Verbal Ability and Logical Reasoning]]></secName>
+<LANGID><![CDATA[1]]></LANGID>
+<LANGNAME><![CDATA[English]]></LANGNAME>
+<secID><![CDATA[2]]></secID>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 51 to 54: Answer the questions on the basis of the information given below.<br/>Twenty one participants from four continents (Africa, Americas, Australasia and Europe ) attended a United Nations conference. Each Participant was an expert in one of four fields, labour, health, population studies, and refugee relocation. The following five facts about the participants are given.<br/><br/>(a) The number of labour experts in the camp was exactly half the number of experts in each of the three other categories.<br/><br/>(b) Africa did not send any labour expert. Otherwise, every continent, including Africa, sent at least one expert for each category.<br/><br/>(c) None of the continents sent more than three experts in any category.<br/><br/>(d) If there had been one less Australasian expert, then the Americans would have had twice as many experts as each of the other continents.<br/><br/>(e) Mike and Alfanso are leading experts of population studies who attended the conference. They are from Australasia. @@&&  If Ramos is the lone American expert in population studies, which of the following is NOT true about the numbers of experts in the conference from the four continents.]]></NAME>
+<ID><![CDATA[56]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[There is one expert in health from Africa.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[There is one expert in refugee relocation from Africa.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[There are two experts in health from the Americas.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[There are three experts in refugee relocation from Amer ]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 51 to 54: Answer the questions on the basis of the information given below.<br/>Twenty one participants from four continents (Africa, Americas, Australasia and Europe ) attended a United Nations conference. Each Participant was an expert in one of four fields, labour, health, population studies, and refugee relocation. The following five facts about the participants are given.<br/><br/>(a) The number of labour experts in the camp was exactly half the number of experts in each of the three other categories.<br/><br/>(b) Africa did not send any labour expert. Otherwise, every continent, including Africa, sent at least one expert for each category.<br/><br/>(c) None of the continents sent more than three experts in any category.<br/><br/>(d) If there had been one less Australasian expert, then the Americans would have had twice as many experts as each of the other continents.<br/><br/>(e) Mike and Alfanso are leading experts of population studies who attended the conference. They are from Australasia. @@&& Alex, an American expert in refugee relocation, was the first keynote speaker in the conference. What can be inferred about the number of American experts in refugee relocation in the conference, excluding Alex?<br/> <p>(i) At least one<br/><p>(ii) At most two]]></NAME>
+<ID><![CDATA[57]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Only (i)and not (ii)]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Only (ii)and not (i)]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Both (i)and (ii)]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Neither i nor ii]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 51 to 54: Answer the questions on the basis of the information given below.<br/>Twenty one participants from four continents (Africa, Americas, Australasia and Europe ) attended a United Nations conference. Each Participant was an expert in one of four fields, labour, health, population studies, and refugee relocation. The following five facts about the participants are given.<br/><br/>(a) The number of labour experts in the camp was exactly half the number of experts in each of the three other categories.<br/><br/>(b) Africa did not send any labour expert. Otherwise, every continent, including Africa, sent at least one expert for each category.<br/><br/>(c) None of the continents sent more than three experts in any category.<br/><br/>(d) If there had been one less Australasian expert, then the Americans would have had twice as many experts as each of the other continents.<br/><br/>(e) Mike and Alfanso are leading experts of population studies who attended the conference. They are from Australasia. @@&& Which of the following numbers cannot be determined from the information given?]]></NAME>
+<ID><![CDATA[58]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[<img src="756/2/images/d53_1.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[<img src="756/2/images/d53_2.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[<img src="756/2/images/d53_3.jpg "/>]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[<img src="756/2/images/d53_4.jpg "/>]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 51 to 54: Answer the questions on the basis of the information given below.<br/>Twenty one participants from four continents (Africa, Americas, Australasia and Europe ) attended a United Nations conference. Each Participant was an expert in one of four fields, labour, health, population studies, and refugee relocation. The following five facts about the participants are given.<br/><br/>(a) The number of labour experts in the camp was exactly half the number of experts in each of the three other categories.<br/><br/>(b) Africa did not send any labour expert. Otherwise, every continent, including Africa, sent at least one expert for each category.<br/><br/>(c) None of the continents sent more than three experts in any category.<br/><br/>(d) If there had been one less Australasian expert, then the Americans would have had twice as many experts as each of the other continents.<br/><br/>(e) Mike and Alfanso are leading experts of population studies who attended the conference. They are from Australasia. @@&& Which of the following combinations is NOT possible?]]></NAME>
+<ID><![CDATA[59]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[2 experts in population studies from the Americas and 2 health experts from Africa attended the conference. ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[2 experts in population studies from the Americas and 1 health expert from Africa attended the
+conference. ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[3 experts in refugee relocation from the Americas and 1 health expert from Africa attended the
+conference ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Africa and America each had 1 expert in population studies attending the conference.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Answer Questions 55 to 59 on the basis of the information given below:<br/><br/>K, L, M, N, P, Q, R, S, U and W are the only ten members in a department. There is a proposal to form a team<br/>from within the members ofthe department. subject to the following conditions:<br/><br/>-A team must include exactly one among P, R, and S.<br/>-A team must include either M or Q, but not both.<br/>-lf a team includes K, then it must also include L and vice versa.<br/>-If a team includes one among S, U. and W, then it must also include the other two.<br/>-I. and N cannot be members of the same team.<br/>-L and U cannot be members of the same team.<br/><br/>The size of a team is defined as the number of members in the team.  @@&& What would be the size of the largest possible team?]]></NAME>
+<ID><![CDATA[61]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[8]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[7]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[6]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[5]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[cannot be determined]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Answer Questions 55 to 59 on the basis of the information given below:<br/><br/>K, L, M, N, P, Q, R, S, U and W are the only ten members in a department. There is a proposal to form a team<br/>from within the members ofthe department. subject to the following conditions:<br/><br/>-A team must include exactly one among P, R, and S.<br/>-A team must include either M or Q, but not both.<br/>-lf a team includes K, then it must also include L and vice versa.<br/>-If a team includes one among S, U. and W, then it must also include the other two.<br/>-I. and N cannot be members of the same team.<br/>-L and U cannot be members of the same team.<br/><br/>The size of a team is defined as the number of members in the team.  @@&& What could be the size of a team that includes K?]]></NAME>
+<ID><![CDATA[62]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[2 or 3]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[2 or 4]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[3 or 4]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Only 2]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Only 4]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Answer Questions 55 to 59 on the basis of the information given below:<br/><br/>K, L, M, N, P, Q, R, S, U and W are the only ten members in a department. There is a proposal to form a team<br/>from within the members ofthe department. subject to the following conditions:<br/><br/>-A team must include exactly one among P, R, and S.<br/>-A team must include either M or Q, but not both.<br/>-lf a team includes K, then it must also include L and vice versa.<br/>-If a team includes one among S, U. and W, then it must also include the other two.<br/>-I. and N cannot be members of the same team.<br/>-L and U cannot be members of the same team.<br/><br/>The size of a team is defined as the number of members in the team.  @@&& In how many ways a team can be constituted so that the team includes N?]]></NAME>
+<ID><![CDATA[63]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[2]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[3]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[4]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[5]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[6]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Answer Questions 55 to 59 on the basis of the information given below:<br/><br/>K, L, M, N, P, Q, R, S, U and W are the only ten members in a department. There is a proposal to form a team<br/>from within the members ofthe department. subject to the following conditions:<br/><br/>-A team must include exactly one among P, R, and S.<br/>-A team must include either M or Q, but not both.<br/>-lf a team includes K, then it must also include L and vice versa.<br/>-If a team includes one among S, U. and W, then it must also include the other two.<br/>-I. and N cannot be members of the same team.<br/>-L and U cannot be members of the same team.<br/><br/>The size of a team is defined as the number of members in the team.  @@&& Who cannot be a member of a team of size 3?]]></NAME>
+<ID><![CDATA[64]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[L]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[M]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[N]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[P]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Q]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Answer Questions 55 to 59 on the basis of the information given below:<br/><br/>K, L, M, N, P, Q, R, S, U and W are the only ten members in a department. There is a proposal to form a team<br/>from within the members ofthe department. subject to the following conditions:<br/><br/>-A team must include exactly one among P, R, and S.<br/>-A team must include either M or Q, but not both.<br/>-lf a team includes K, then it must also include L and vice versa.<br/>-If a team includes one among S, U. and W, then it must also include the other two.<br/>-I. and N cannot be members of the same team.<br/>-L and U cannot be members of the same team.<br/><br/>The size of a team is defined as the number of members in the team.  @@&& Who can be a member ofa team of size 5?]]></NAME>
+<ID><![CDATA[65]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[K]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[L]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[M]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[P]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[R]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 60 to 63: Answer the questions on the basis of the information given below.  <p>In a sports event. six teams (A, B, C, D, E and F) are competing against each other. Matches are scheduled in two stages. Each team plays three matches in Stage-I and two matches in Stage-II.No team plays against the same team more than once in the event. No ties are permitted in any of the matches. The observations after the completion of Stage-I and Stage-II are as given below.  <p>Stage-I: <p>-One team won all the three matches. <p>-Two teams lost all the matches. <p>-D lost to A but won against C and F. <p>-E lost to B but won against C and F. <p>-B lost at least one match. <p>-F did not play against the top team of Stage-I.  <p>Stage-ll:  <p>The leader of Stage-l lost the next two matches. -Of the two teams at the bottom after Stage-I, one team won both matches, while the other lost both matches. <p>One more team lost both matches in Stage-II. @@&& The teams that won exactly two matches in the event are:]]></NAME>
+<ID><![CDATA[67]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A,D&F ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[D&E ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[D,E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[D&F]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 60 to 63: Answer the questions on the basis of the information given below.  <p>In a sports event. six teams (A, B, C, D, E and F) are competing against each other. Matches are scheduled in two stages. Each team plays three matches in Stage-I and two matches in Stage-II.No team plays against the same team more than once in the event. No ties are permitted in any of the matches. The observations after the completion of Stage-I and Stage-II are as given below.  <p>Stage-I: <p>-One team won all the three matches. <p>-Two teams lost all the matches. <p>-D lost to A but won against C and F. <p>-E lost to B but won against C and F. <p>-B lost at least one match. <p>-F did not play against the top team of Stage-I.  <p>Stage-ll:  <p>The leader of Stage-l lost the next two matches. -Of the two teams at the bottom after Stage-I, one team won both matches, while the other lost both matches. <p>One more team lost both matches in Stage-II. @@&& The team(s) with the most wins in the event is (are):]]></NAME>
+<ID><![CDATA[68]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[A&C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[E]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[B&E]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 60 to 63: Answer the questions on the basis of the information given below.  <p>In a sports event. six teams (A, B, C, D, E and F) are competing against each other. Matches are scheduled in two stages. Each team plays three matches in Stage-I and two matches in Stage-II.No team plays against the same team more than once in the event. No ties are permitted in any of the matches. The observations after the completion of Stage-I and Stage-II are as given below.  <p>Stage-I: <p>-One team won all the three matches. <p>-Two teams lost all the matches. <p>-D lost to A but won against C and F. <p>-E lost to B but won against C and F. <p>-B lost at least one match. <p>-F did not play against the top team of Stage-I.  <p>Stage-ll:  <p>The leader of Stage-l lost the next two matches. -Of the two teams at the bottom after Stage-I, one team won both matches, while the other lost both matches. <p>One more team lost both matches in Stage-II. @@&&  The two teams that defeated the leader of Stage-I are:]]></NAME>
+<ID><![CDATA[69]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[F&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A,E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[B,E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[B&F]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 60 to 63: Answer the questions on the basis of the information given below.  <p>In a sports event. six teams (A, B, C, D, E and F) are competing against each other. Matches are scheduled in two stages. Each team plays three matches in Stage-I and two matches in Stage-II.No team plays against the same team more than once in the event. No ties are permitted in any of the matches. The observations after the completion of Stage-I and Stage-II are as given below.  <p>Stage-I: <p>-One team won all the three matches. <p>-Two teams lost all the matches. <p>-D lost to A but won against C and F. <p>-E lost to B but won against C and F. <p>-B lost at least one match. <p>-F did not play against the top team of Stage-I.  <p>Stage-ll:  <p>The leader of Stage-l lost the next two matches. -Of the two teams at the bottom after Stage-I, one team won both matches, while the other lost both matches. <p>One more team lost both matches in Stage-II. @@&& The only team(s) that won both the matches in Stage-ll is (are):]]></NAME>
+<ID><![CDATA[70]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[B]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A,E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[B,E&F]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[B&F]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 64 to 66:Answer the following question based on the statements given below:<br/><br/>(i) There are three houses on each side of the road.<br/>(ii) These six houses are labeled as P, Q, R, S, T and U.<br/>(iii) The houses are of different colours, namely Red, Blue, Green, Orange, Yellow and White.<br/>(iv) The houses are of different heights.<br/>(v) T, the tallest house, is exactly opposite to the Red coloured house.<br/>(vi) The shortest house is exactly opposite to the Green coloured house.<br/>(vii) U, the Orange coloured house, is located between P and S.<br/>(viii) R, the Yellow coloured house, is exactly opposite to P.<br/>(ix) Q, the Green coloured house, is exactly opposite to U.<br/>(x) P, the White coloured house, is taller than R, but shorter than S and Q. @@&&  Which is the second tallest house?]]></NAME>
+<ID><![CDATA[72]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[P]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[S]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Q]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[R]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[cannot be determined]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 64 to 66:Answer the following question based on the statements given below:<br/><br/>(i) There are three houses on each side of the road.<br/>(ii) These six houses are labeled as P, Q, R, S, T and U.<br/>(iii) The houses are of different colours, namely Red, Blue, Green, Orange, Yellow and White.<br/>(iv) The houses are of different heights.<br/>(v) T, the tallest house, is exactly opposite to the Red coloured house.<br/>(vi) The shortest house is exactly opposite to the Green coloured house.<br/>(vii) U, the Orange coloured house, is located between P and S.<br/>(viii) R, the Yellow coloured house, is exactly opposite to P.<br/>(ix) Q, the Green coloured house, is exactly opposite to U.<br/>(x) P, the White coloured house, is taller than R, but shorter than S and Q. @@&& What is the colour of the house diagonally opposite to the Yellow coloured house?]]></NAME>
+<ID><![CDATA[73]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[ White ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Blue]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Green]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Red]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[None of these]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 64 to 66:Answer the following question based on the statements given below:<br/><br/>(i) There are three houses on each side of the road.<br/>(ii) These six houses are labeled as P, Q, R, S, T and U.<br/>(iii) The houses are of different colours, namely Red, Blue, Green, Orange, Yellow and White.<br/>(iv) The houses are of different heights.<br/>(v) T, the tallest house, is exactly opposite to the Red coloured house.<br/>(vi) The shortest house is exactly opposite to the Green coloured house.<br/>(vii) U, the Orange coloured house, is located between P and S.<br/>(viii) R, the Yellow coloured house, is exactly opposite to P.<br/>(ix) Q, the Green coloured house, is exactly opposite to U.<br/>(x) P, the White coloured house, is taller than R, but shorter than S and Q. @@&& What is the colour of the tallest house’?]]></NAME>
+<ID><![CDATA[74]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Red]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Green]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Blue]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Yellow]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[None of these]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 67 to 69 : The Passage given below is followed by a set of three questions.<p>Choose the most appropriate answer to each question.<p>The diffulties historians face in establishing cause-and effect relations in the history of human societies are broadly similar to the difficulties facing astronomers,climatologists,ecologists,evolutionary biologists,geologists,and palaeontologists.To varying degrees each of these fields is palgued by the impossibility of performing replicated,controlled,experimental interventions,the complexity arising from enormous number of variables, the resulting uniqueness of each system,the consequent impossibility of formulating universal laws,and the dufficulties of prediciting emergent properties and future behaviour.prediction in history,as in other historical sciences,is most feasibleon large spatial scales and over long times,when the unique features of millions of small-scale brief events become averaged out.Just as I could predict the sex ratio of the next 1,000 newborns bu not the sexes of my own two children,the historian can recognize factors that made inevitable the broad outcome of the colllision between American and Eurasian societies after 13,000 years of separate developments,bu not the outcome of the 1960 U.S presidential election.the details of which candidate said what during a single televised debate in October 1960 could have given the electoral victory to Nixon instead of to Kennedy.but no details of who said what could have blocked the European conquest of Native Americans.<br/>How can students of human history profit from the experience of scientists in other historical sciences?A methodology that has proved useful involves the comparative method and so-called natural expreiments.while neither astronomers studying galaxy formation nor human historians can manipulate their systems in controlled laboratory experiments,they bothe can take advantage of natural experiments,by comparing systems differing in the presence or absence (or in the strong or weak effect)of some putative causative factor.for example, epidemiologists,forbidden  to feed large amounts of salt to people experimentally, have still been albe to identify effects of high salt intake by comparing groups of humans who already differ greatly in their salt intake; and cultural anthropologists,unable to provide human groups experimentally with varying resource abundances for many centuries,still study long-term effects of resource aboundance on human societies by comapring recent Polynesian populations living on islands differing naturally in resource abundance.<p>The student of human history can draw on many more natural experiments than just comparisons among the five inhabited continests.Comparisons can also utilize lage islands that have developed complex societies in considerable degree of isolation (such as japan,Madagascar,Native American<br/>Hispaniola,New Guinea,Hawaii,and many others),as well as societies on hundreds of smaller islands and regional societies within each of the continents.Natural experiments in any field,whether in ecology or human history,are inherently open to potential methodological criticisms.Those include confounding effects of natural variantion in addional variables besides the one of interest,as well as problems in inferring chains of causation from observed correlations between variables.Such methodological problems have been discussed in great detail for some of the historical sciences.In particular,epidemiology,the science of drawing inferences abount human diseases by comparing groups of perople (oftern by retrospective historical studies),has for a long time successfully employed formalized procedures for dealing with problems similar to those facing historians of human societies.<p>In Short,I acknowledge that it is much more difficult to understand human history than to understand prolems in fields of science where history is unimportant and where fewer individual variables operate.Neverthless,successful methodologies for analyzing historical problems have been worked out in serverl fields.As a result the histories of dinosaurs, nebulae, and galciers are generally acknowledge to belong to fields of science rather than to the humanities. @@&& Why do islands with considerable degree of isolation provide valuable provide valuable insights  into human history?]]></NAME>
+<ID><![CDATA[76]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[ Isolated islands may evolve differently and this difference is of interest to us.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Isolated islands increase the number of observations available to historaians.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Isolated islands,differing in their endowments and size may evolve differently and this difference can be attributed to their endowments and size.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Isolated islands, differing in their endowments and size, provide a good comparison to large islands such as Eurasia,Africa,Americas and Australia.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Isolated islands, in so far as they are inhabited,arouse curiosity about how human being evolved there.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 67 to 69 : The Passage given below is followed by a set of three questions.<p>Choose the most appropriate answer to each question.<p>The diffulties historians face in establishing cause-and effect relations in the history of human societies are broadly similar to the difficulties facing astronomers,climatologists,ecologists,evolutionary biologists,geologists,and palaeontologists.To varying degrees each of these fields is palgued by the impossibility of performing replicated,controlled,experimental interventions,the complexity arising from enormous number of variables, the resulting uniqueness of each system,the consequent impossibility of formulating universal laws,and the dufficulties of prediciting emergent properties and future behaviour.prediction in history,as in other historical sciences,is most feasibleon large spatial scales and over long times,when the unique features of millions of small-scale brief events become averaged out.Just as I could predict the sex ratio of the next 1,000 newborns bu not the sexes of my own two children,the historian can recognize factors that made inevitable the broad outcome of the colllision between American and Eurasian societies after 13,000 years of separate developments,bu not the outcome of the 1960 U.S presidential election.the details of which candidate said what during a single televised debate in October 1960 could have given the electoral victory to Nixon instead of to Kennedy.but no details of who said what could have blocked the European conquest of Native Americans.<br/>How can students of human history profit from the experience of scientists in other historical sciences?A methodology that has proved useful involves the comparative method and so-called natural expreiments.while neither astronomers studying galaxy formation nor human historians can manipulate their systems in controlled laboratory experiments,they bothe can take advantage of natural experiments,by comparing systems differing in the presence or absence (or in the strong or weak effect)of some putative causative factor.for example, epidemiologists,forbidden  to feed large amounts of salt to people experimentally, have still been albe to identify effects of high salt intake by comparing groups of humans who already differ greatly in their salt intake; and cultural anthropologists,unable to provide human groups experimentally with varying resource abundances for many centuries,still study long-term effects of resource aboundance on human societies by comapring recent Polynesian populations living on islands differing naturally in resource abundance.<p>The student of human history can draw on many more natural experiments than just comparisons among the five inhabited continests.Comparisons can also utilize lage islands that have developed complex societies in considerable degree of isolation (such as japan,Madagascar,Native American<br/>Hispaniola,New Guinea,Hawaii,and many others),as well as societies on hundreds of smaller islands and regional societies within each of the continents.Natural experiments in any field,whether in ecology or human history,are inherently open to potential methodological criticisms.Those include confounding effects of natural variantion in addional variables besides the one of interest,as well as problems in inferring chains of causation from observed correlations between variables.Such methodological problems have been discussed in great detail for some of the historical sciences.In particular,epidemiology,the science of drawing inferences abount human diseases by comparing groups of perople (oftern by retrospective historical studies),has for a long time successfully employed formalized procedures for dealing with problems similar to those facing historians of human societies.<p>In Short,I acknowledge that it is much more difficult to understand human history than to understand prolems in fields of science where history is unimportant and where fewer individual variables operate.Neverthless,successful methodologies for analyzing historical problems have been worked out in serverl fields.As a result the histories of dinosaurs, nebulae, and galciers are generally acknowledge to belong to fields of science rather than to the humanities. @@&& According to the author,why is prediction difficult in history?]]></NAME>
+<ID><![CDATA[77]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Historical explanations are usually broad so that no prediction is possible.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Historical outcomes depend upon a large number of factors and hence prediction is difficult for each case.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Historical sciences,by their very nature,are not interested in a multitude of minor factors,which might be important in a specific historical outcome.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Historians are interested in evolution of human history and hence are only interested in long-term predictions.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Historical sciences suffer from the inability to conduct controlled experiments and therfore have explanations based on a few long term factors.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 67 to 69 : The Passage given below is followed by a set of three questions.<p>Choose the most appropriate answer to each question.<p>The diffulties historians face in establishing cause-and effect relations in the history of human societies are broadly similar to the difficulties facing astronomers,climatologists,ecologists,evolutionary biologists,geologists,and palaeontologists.To varying degrees each of these fields is palgued by the impossibility of performing replicated,controlled,experimental interventions,the complexity arising from enormous number of variables, the resulting uniqueness of each system,the consequent impossibility of formulating universal laws,and the dufficulties of prediciting emergent properties and future behaviour.prediction in history,as in other historical sciences,is most feasibleon large spatial scales and over long times,when the unique features of millions of small-scale brief events become averaged out.Just as I could predict the sex ratio of the next 1,000 newborns bu not the sexes of my own two children,the historian can recognize factors that made inevitable the broad outcome of the colllision between American and Eurasian societies after 13,000 years of separate developments,bu not the outcome of the 1960 U.S presidential election.the details of which candidate said what during a single televised debate in October 1960 could have given the electoral victory to Nixon instead of to Kennedy.but no details of who said what could have blocked the European conquest of Native Americans.<br/>How can students of human history profit from the experience of scientists in other historical sciences?A methodology that has proved useful involves the comparative method and so-called natural expreiments.while neither astronomers studying galaxy formation nor human historians can manipulate their systems in controlled laboratory experiments,they bothe can take advantage of natural experiments,by comparing systems differing in the presence or absence (or in the strong or weak effect)of some putative causative factor.for example, epidemiologists,forbidden  to feed large amounts of salt to people experimentally, have still been albe to identify effects of high salt intake by comparing groups of humans who already differ greatly in their salt intake; and cultural anthropologists,unable to provide human groups experimentally with varying resource abundances for many centuries,still study long-term effects of resource aboundance on human societies by comapring recent Polynesian populations living on islands differing naturally in resource abundance.<p>The student of human history can draw on many more natural experiments than just comparisons among the five inhabited continests.Comparisons can also utilize lage islands that have developed complex societies in considerable degree of isolation (such as japan,Madagascar,Native American<br/>Hispaniola,New Guinea,Hawaii,and many others),as well as societies on hundreds of smaller islands and regional societies within each of the continents.Natural experiments in any field,whether in ecology or human history,are inherently open to potential methodological criticisms.Those include confounding effects of natural variantion in addional variables besides the one of interest,as well as problems in inferring chains of causation from observed correlations between variables.Such methodological problems have been discussed in great detail for some of the historical sciences.In particular,epidemiology,the science of drawing inferences abount human diseases by comparing groups of perople (oftern by retrospective historical studies),has for a long time successfully employed formalized procedures for dealing with problems similar to those facing historians of human societies.<p>In Short,I acknowledge that it is much more difficult to understand human history than to understand prolems in fields of science where history is unimportant and where fewer individual variables operate.Neverthless,successful methodologies for analyzing historical problems have been worked out in serverl fields.As a result the histories of dinosaurs, nebulae, and galciers are generally acknowledge to belong to fields of science rather than to the humanities. @@&& According to author, which of the following statements would be true?]]></NAME>
+<ID><![CDATA[78]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Students of history are missing significant oppurtunities by not conducting any natural experiments.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Students of history are missing significant oppurtunities by not studying an adequate variety of natural experiments.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Complex societies inhabiting large islands provide great oppurtunities fro natural experiments.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A unique problem faced by historians is their inability to establish cause and effect relationships.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Cultural anthropologists have overcome the problem of confounding variables through natural experiments.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 70 to 74 : The passage given below is followed by a set of questions.<p>Choose the best answer to each question.<p>The painter is now free to paint anything he chooses. There are scarcely any forbidden subject,and today everybody is prepared to admit that a painting of some fruit can be as important as a painting of a hero dying.The impressionists did as much as anybody to win this previously unheard of freedom for the artist.Yet,by the next generation,painters began to abandon the subject altogether,and began to paint abstract pictures.Today the majority of pictures painted are abstract.<p>Is there a connection between these two developments ? Has art gone abstract because the artist is embarrassed by his freedom? Is it that,because he is free to paint anything,he doesn't know what to paint? Apologists for abstract are often talk of it as the art of maximum freedom.But could this be the freedom of the desert island? It would take too long to answer this questions properly.I believe there is a connection.Many things have encouraged the development of abstract art.Among them has been the artists wish to avoid the difficulties of finding subjects when all subjects are equally possible.<p>I raise the matter now because I want to draw attention to the fact that the painter's choice of a subject is a far more complicatedquestion than it would at first seem.A subject does not start with what is put in front of the easel or with something which the painter happens to remember.Asubject starts with the painter deciding he would like to paint such and such because for some reason or other he finds it meaningful.A subject begains when the artist selects something for special mention.(what makes it special or meaningful may seem to the artist to be purely visual its colours or its form.)when the subject has been selected,the function of the painting itself is to communicate and justify the significance of that selectiion.<p>It is often said today that subject matter is unimportant.But this is only a recation against the excessively literary and moralistic interpretation of subject matter in the nineteenth century.in truth the subject is literally the beginning and end of a painting.The painting begins with a selectin (Iwill paint this and not everything else in the world);it is finished when that selection is justified (now you can see all that I saw and felt in this and how it is more than merely itself).<p>Thus,for a painting to succeed it is essential that the painter and his public agree about what is significant.The subject may have a personal meaning for the painter or individual spectator;but there must also be the possiblity of their agreement on its general meaning.it is at this point that the culture of the society and period in question precedes the artist and his art.Renaissance art would <br/>have meant nothing to the Aztecs and vice versa.If, to some extent,a few intellectuals can appreciate them both today it is because their culture is an historical one,it's inspiration is history and therefore it can include within itself,in principle if not in every particular,all know developments to date.<p>When a culture is secure and certain of its values, it presents its artists with subjects. The general agreement about what is sigificant is so well established that the significance of a particular subjectaccrues and becomes tradition.This is true,for instance,of reeds and water in China,of the nude body in Renaissance,of the animal in Africa.Furthermore,in such cultures the artist is unlikely to be a free agent;he will be employed for sake of particular subjects,and the problem,as we have just described it ,will not occur to him.<p>When culture is in a state of disintegration or transition the freedom of the aritst increases but the question of subject matter become problematic for him;he himself,has to choose for society.This was at the basis of all the increasing crises in European art during the nineteenth century.It is too often forgotten how many of the art scandals of that time were provoked by the choice of subject (Gericault, Courbet,Daumier,Degas,Lautrec,Van Gogh,etc.)<p>By the end of the nineteenth century there were, roughly speaking,two ways in which the painter could meet this challenge of deciding what to paint and so choosing for society.Either he identified himself wih the people and so allowed their lives to dictate his subjects to him;or he had to find his subjets within himself as painter.By people I mean everybody except the bourgeoisie.Many painters did of course work for the bourgeoisie according to their copy book of approved subjects,but all of them,filling the salon the Royal Academy year after year,are now forgotten buried under the hypoersiy of those they served so sincerely. @@&& In the sentence "I believe there is a connection" (second paragraph), what two developments is the author referring to?]]></NAME>
+<ID><![CDATA[80]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Painters using a dying hero and using a fruit as a subject of painting.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Growing success of painters and an increase in abstract forms.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Artists gaining freedom to choose subjects and abandoning subjects altogether.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Rise of impressionists and an increase in abstract forms.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 70 to 74 : The passage given below is followed by a set of questions.<p>Choose the best answer to each question.<p>The painter is now free to paint anything he chooses. There are scarcely any forbidden subject,and today everybody is prepared to admit that a painting of some fruit can be as important as a painting of a hero dying.The impressionists did as much as anybody to win this previously unheard of freedom for the artist.Yet,by the next generation,painters began to abandon the subject altogether,and began to paint abstract pictures.Today the majority of pictures painted are abstract.<p>Is there a connection between these two developments ? Has art gone abstract because the artist is embarrassed by his freedom? Is it that,because he is free to paint anything,he doesn't know what to paint? Apologists for abstract are often talk of it as the art of maximum freedom.But could this be the freedom of the desert island? It would take too long to answer this questions properly.I believe there is a connection.Many things have encouraged the development of abstract art.Among them has been the artists wish to avoid the difficulties of finding subjects when all subjects are equally possible.<p>I raise the matter now because I want to draw attention to the fact that the painter's choice of a subject is a far more complicatedquestion than it would at first seem.A subject does not start with what is put in front of the easel or with something which the painter happens to remember.Asubject starts with the painter deciding he would like to paint such and such because for some reason or other he finds it meaningful.A subject begains when the artist selects something for special mention.(what makes it special or meaningful may seem to the artist to be purely visual its colours or its form.)when the subject has been selected,the function of the painting itself is to communicate and justify the significance of that selectiion.<p>It is often said today that subject matter is unimportant.But this is only a recation against the excessively literary and moralistic interpretation of subject matter in the nineteenth century.in truth the subject is literally the beginning and end of a painting.The painting begins with a selectin (Iwill paint this and not everything else in the world);it is finished when that selection is justified (now you can see all that I saw and felt in this and how it is more than merely itself).<p>Thus,for a painting to succeed it is essential that the painter and his public agree about what is significant.The subject may have a personal meaning for the painter or individual spectator;but there must also be the possiblity of their agreement on its general meaning.it is at this point that the culture of the society and period in question precedes the artist and his art.Renaissance art would <br/>have meant nothing to the Aztecs and vice versa.If, to some extent,a few intellectuals can appreciate them both today it is because their culture is an historical one,it's inspiration is history and therefore it can include within itself,in principle if not in every particular,all know developments to date.<p>When a culture is secure and certain of its values, it presents its artists with subjects. The general agreement about what is sigificant is so well established that the significance of a particular subjectaccrues and becomes tradition.This is true,for instance,of reeds and water in China,of the nude body in Renaissance,of the animal in Africa.Furthermore,in such cultures the artist is unlikely to be a free agent;he will be employed for sake of particular subjects,and the problem,as we have just described it ,will not occur to him.<p>When culture is in a state of disintegration or transition the freedom of the aritst increases but the question of subject matter become problematic for him;he himself,has to choose for society.This was at the basis of all the increasing crises in European art during the nineteenth century.It is too often forgotten how many of the art scandals of that time were provoked by the choice of subject (Gericault, Courbet,Daumier,Degas,Lautrec,Van Gogh,etc.)<p>By the end of the nineteenth century there were, roughly speaking,two ways in which the painter could meet this challenge of deciding what to paint and so choosing for society.Either he identified himself wih the people and so allowed their lives to dictate his subjects to him;or he had to find his subjets within himself as painter.By people I mean everybody except the bourgeoisie.Many painters did of course work for the bourgeoisie according to their copy book of approved subjects,but all of them,filling the salon the Royal Academy year after year,are now forgotten buried under the hypoersiy of those they served so sincerely. @@&& When a culture is insecure,the painter chooses his subject on the basis of:]]></NAME>
+<ID><![CDATA[81]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[The prevalent style in the society of his time.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[its meaningfulness to the painter.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[What is put in front of easel.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Past experience and memory of the painter.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 70 to 74 : The passage given below is followed by a set of questions.<p>Choose the best answer to each question.<p>The painter is now free to paint anything he chooses. There are scarcely any forbidden subject,and today everybody is prepared to admit that a painting of some fruit can be as important as a painting of a hero dying.The impressionists did as much as anybody to win this previously unheard of freedom for the artist.Yet,by the next generation,painters began to abandon the subject altogether,and began to paint abstract pictures.Today the majority of pictures painted are abstract.<p>Is there a connection between these two developments ? Has art gone abstract because the artist is embarrassed by his freedom? Is it that,because he is free to paint anything,he doesn't know what to paint? Apologists for abstract are often talk of it as the art of maximum freedom.But could this be the freedom of the desert island? It would take too long to answer this questions properly.I believe there is a connection.Many things have encouraged the development of abstract art.Among them has been the artists wish to avoid the difficulties of finding subjects when all subjects are equally possible.<p>I raise the matter now because I want to draw attention to the fact that the painter's choice of a subject is a far more complicatedquestion than it would at first seem.A subject does not start with what is put in front of the easel or with something which the painter happens to remember.Asubject starts with the painter deciding he would like to paint such and such because for some reason or other he finds it meaningful.A subject begains when the artist selects something for special mention.(what makes it special or meaningful may seem to the artist to be purely visual its colours or its form.)when the subject has been selected,the function of the painting itself is to communicate and justify the significance of that selectiion.<p>It is often said today that subject matter is unimportant.But this is only a recation against the excessively literary and moralistic interpretation of subject matter in the nineteenth century.in truth the subject is literally the beginning and end of a painting.The painting begins with a selectin (Iwill paint this and not everything else in the world);it is finished when that selection is justified (now you can see all that I saw and felt in this and how it is more than merely itself).<p>Thus,for a painting to succeed it is essential that the painter and his public agree about what is significant.The subject may have a personal meaning for the painter or individual spectator;but there must also be the possiblity of their agreement on its general meaning.it is at this point that the culture of the society and period in question precedes the artist and his art.Renaissance art would <br/>have meant nothing to the Aztecs and vice versa.If, to some extent,a few intellectuals can appreciate them both today it is because their culture is an historical one,it's inspiration is history and therefore it can include within itself,in principle if not in every particular,all know developments to date.<p>When a culture is secure and certain of its values, it presents its artists with subjects. The general agreement about what is sigificant is so well established that the significance of a particular subjectaccrues and becomes tradition.This is true,for instance,of reeds and water in China,of the nude body in Renaissance,of the animal in Africa.Furthermore,in such cultures the artist is unlikely to be a free agent;he will be employed for sake of particular subjects,and the problem,as we have just described it ,will not occur to him.<p>When culture is in a state of disintegration or transition the freedom of the aritst increases but the question of subject matter become problematic for him;he himself,has to choose for society.This was at the basis of all the increasing crises in European art during the nineteenth century.It is too often forgotten how many of the art scandals of that time were provoked by the choice of subject (Gericault, Courbet,Daumier,Degas,Lautrec,Van Gogh,etc.)<p>By the end of the nineteenth century there were, roughly speaking,two ways in which the painter could meet this challenge of deciding what to paint and so choosing for society.Either he identified himself wih the people and so allowed their lives to dictate his subjects to him;or he had to find his subjets within himself as painter.By people I mean everybody except the bourgeoisie.Many painters did of course work for the bourgeoisie according to their copy book of approved subjects,but all of them,filling the salon the Royal Academy year after year,are now forgotten buried under the hypoersiy of those they served so sincerely. @@&& In the context of the passage,which of the following statements would NOT be true?]]></NAME>
+<ID><![CDATA[82]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[ Painters decided subjects based on what they remebered from their own lives.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Painters of reedds and water in China faced no serious problem of choosing a subject]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[The choice of subject was a source of scandals in nineteenth century European art.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Agreement on the general meaning of painting is influenced by culture and historical context.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 70 to 74 : The passage given below is followed by a set of questions.<p>Choose the best answer to each question.<p>The painter is now free to paint anything he chooses. There are scarcely any forbidden subject,and today everybody is prepared to admit that a painting of some fruit can be as important as a painting of a hero dying.The impressionists did as much as anybody to win this previously unheard of freedom for the artist.Yet,by the next generation,painters began to abandon the subject altogether,and began to paint abstract pictures.Today the majority of pictures painted are abstract.<p>Is there a connection between these two developments ? Has art gone abstract because the artist is embarrassed by his freedom? Is it that,because he is free to paint anything,he doesn't know what to paint? Apologists for abstract are often talk of it as the art of maximum freedom.But could this be the freedom of the desert island? It would take too long to answer this questions properly.I believe there is a connection.Many things have encouraged the development of abstract art.Among them has been the artists wish to avoid the difficulties of finding subjects when all subjects are equally possible.<p>I raise the matter now because I want to draw attention to the fact that the painter's choice of a subject is a far more complicatedquestion than it would at first seem.A subject does not start with what is put in front of the easel or with something which the painter happens to remember.Asubject starts with the painter deciding he would like to paint such and such because for some reason or other he finds it meaningful.A subject begains when the artist selects something for special mention.(what makes it special or meaningful may seem to the artist to be purely visual its colours or its form.)when the subject has been selected,the function of the painting itself is to communicate and justify the significance of that selectiion.<p>It is often said today that subject matter is unimportant.But this is only a recation against the excessively literary and moralistic interpretation of subject matter in the nineteenth century.in truth the subject is literally the beginning and end of a painting.The painting begins with a selectin (Iwill paint this and not everything else in the world);it is finished when that selection is justified (now you can see all that I saw and felt in this and how it is more than merely itself).<p>Thus,for a painting to succeed it is essential that the painter and his public agree about what is significant.The subject may have a personal meaning for the painter or individual spectator;but there must also be the possiblity of their agreement on its general meaning.it is at this point that the culture of the society and period in question precedes the artist and his art.Renaissance art would <br/>have meant nothing to the Aztecs and vice versa.If, to some extent,a few intellectuals can appreciate them both today it is because their culture is an historical one,it's inspiration is history and therefore it can include within itself,in principle if not in every particular,all know developments to date.<p>When a culture is secure and certain of its values, it presents its artists with subjects. The general agreement about what is sigificant is so well established that the significance of a particular subjectaccrues and becomes tradition.This is true,for instance,of reeds and water in China,of the nude body in Renaissance,of the animal in Africa.Furthermore,in such cultures the artist is unlikely to be a free agent;he will be employed for sake of particular subjects,and the problem,as we have just described it ,will not occur to him.<p>When culture is in a state of disintegration or transition the freedom of the aritst increases but the question of subject matter become problematic for him;he himself,has to choose for society.This was at the basis of all the increasing crises in European art during the nineteenth century.It is too often forgotten how many of the art scandals of that time were provoked by the choice of subject (Gericault, Courbet,Daumier,Degas,Lautrec,Van Gogh,etc.)<p>By the end of the nineteenth century there were, roughly speaking,two ways in which the painter could meet this challenge of deciding what to paint and so choosing for society.Either he identified himself wih the people and so allowed their lives to dictate his subjects to him;or he had to find his subjets within himself as painter.By people I mean everybody except the bourgeoisie.Many painters did of course work for the bourgeoisie according to their copy book of approved subjects,but all of them,filling the salon the Royal Academy year after year,are now forgotten buried under the hypoersiy of those they served so sincerely. @@&& Which of the following views is taken by the author?]]></NAME>
+<ID><![CDATA[83]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[The more insecure a culture,the greater the freedom of the artist.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The more secure a culture, the greater the freedom of the artist.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[The more secure a culture,more diffcult the choice of subject.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[The more insecure a culture, the less significant the choice of the subject.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 70 to 74 : The passage given below is followed by a set of questions.<p>Choose the best answer to each question.<p>The painter is now free to paint anything he chooses. There are scarcely any forbidden subject,and today everybody is prepared to admit that a painting of some fruit can be as important as a painting of a hero dying.The impressionists did as much as anybody to win this previously unheard of freedom for the artist.Yet,by the next generation,painters began to abandon the subject altogether,and began to paint abstract pictures.Today the majority of pictures painted are abstract.<p>Is there a connection between these two developments ? Has art gone abstract because the artist is embarrassed by his freedom? Is it that,because he is free to paint anything,he doesn't know what to paint? Apologists for abstract are often talk of it as the art of maximum freedom.But could this be the freedom of the desert island? It would take too long to answer this questions properly.I believe there is a connection.Many things have encouraged the development of abstract art.Among them has been the artists wish to avoid the difficulties of finding subjects when all subjects are equally possible.<p>I raise the matter now because I want to draw attention to the fact that the painter's choice of a subject is a far more complicatedquestion than it would at first seem.A subject does not start with what is put in front of the easel or with something which the painter happens to remember.Asubject starts with the painter deciding he would like to paint such and such because for some reason or other he finds it meaningful.A subject begains when the artist selects something for special mention.(what makes it special or meaningful may seem to the artist to be purely visual its colours or its form.)when the subject has been selected,the function of the painting itself is to communicate and justify the significance of that selectiion.<p>It is often said today that subject matter is unimportant.But this is only a recation against the excessively literary and moralistic interpretation of subject matter in the nineteenth century.in truth the subject is literally the beginning and end of a painting.The painting begins with a selectin (Iwill paint this and not everything else in the world);it is finished when that selection is justified (now you can see all that I saw and felt in this and how it is more than merely itself).<p>Thus,for a painting to succeed it is essential that the painter and his public agree about what is significant.The subject may have a personal meaning for the painter or individual spectator;but there must also be the possiblity of their agreement on its general meaning.it is at this point that the culture of the society and period in question precedes the artist and his art.Renaissance art would <br/>have meant nothing to the Aztecs and vice versa.If, to some extent,a few intellectuals can appreciate them both today it is because their culture is an historical one,it's inspiration is history and therefore it can include within itself,in principle if not in every particular,all know developments to date.<p>When a culture is secure and certain of its values, it presents its artists with subjects. The general agreement about what is sigificant is so well established that the significance of a particular subjectaccrues and becomes tradition.This is true,for instance,of reeds and water in China,of the nude body in Renaissance,of the animal in Africa.Furthermore,in such cultures the artist is unlikely to be a free agent;he will be employed for sake of particular subjects,and the problem,as we have just described it ,will not occur to him.<p>When culture is in a state of disintegration or transition the freedom of the aritst increases but the question of subject matter become problematic for him;he himself,has to choose for society.This was at the basis of all the increasing crises in European art during the nineteenth century.It is too often forgotten how many of the art scandals of that time were provoked by the choice of subject (Gericault, Courbet,Daumier,Degas,Lautrec,Van Gogh,etc.)<p>By the end of the nineteenth century there were, roughly speaking,two ways in which the painter could meet this challenge of deciding what to paint and so choosing for society.Either he identified himself wih the people and so allowed their lives to dictate his subjects to him;or he had to find his subjets within himself as painter.By people I mean everybody except the bourgeoisie.Many painters did of course work for the bourgeoisie according to their copy book of approved subjects,but all of them,filling the salon the Royal Academy year after year,are now forgotten buried under the hypoersiy of those they served so sincerely. @@&& Which of the following is NOT necessarily among the attributes needed for a painter to succeed:]]></NAME>
+<ID><![CDATA[84]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[The painter and his public agree on what is significant.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The painting is able to communicate and justify the significance of its subject selection.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[The subject has a personal meaning for the painter.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[The painting of subject is inspired by historical developments.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 75 to 78:   The passage given below is followed by a set of five <br/>questions. Choose most appropriate answer to each question.<br/><br/><p>When I was little, children were bought two kinds of ice cream, sold from those white wagons<br/>with canopies made of silvery metal: either the two-cent cone of the four-cent ice-cream pie.<br/>The two-cent cone was very small, in fact it could fit comfortably into a child's hand, and it was<br/>made by taking the ice cream from its container with a special scoop and piling it on the cone.<br/>Granny always suggested I eat only a part of the cone, then throw away the pointed end, because<br/>it had been touched by the vendor's hand (though that was the best part, nice and  crunchy, and it<br/>was regularly eaten in secret, after a pretence of discarding)<br/><br/><p>The four-cent pie was made by a special little machine, also silvery, which pressed two disks of<br/>sweet biscuit against a cylindrical section of ice cream. First you had to thrust your tongue into<br/>the gap between the biscuits until it touched the central nucleus of  ice cream; then, gradually,<br/>you ate the whole thing, the biscuit surface softening as they became soaked in the creamy nectar.<br/>Granny had no advice to given here: in theory the pies had been touched only by the machine; in<br/>practice, the vendor had held them in his hand while giving them to us, but it was impossible to <br/>isolate the contaminated area.<br/><br/><p>I was fascinated, however, by some of my peers, whose parents bought them not a four-cent pie<br/>but two two-cent cones. These privileged children advanced proudly with one cone in their right<br/>hand and one in their left; and expertly moving their head from side to side, they licked first one,<br/>then the other. This liturgy seemed to me so sumptuously enviable, that many times I asked to<br/>be allowed to celebrate it . In vain My elders were inflexible: a four-cent ice, yes; but two two-<br/>cent ones, absolutely no.<br/><br/><p>As anyone can see, neither mathematics nor economy nor dietetics justified this refusal. Nor did <br/>hygiene, assuming that in due course the tips of both cones were discarded. The pathetic, and<br/>obviously mendacious, justification was that a boy concerned with turning his eyes from one <br/>cone to the other was more inclined to stumble over stones, steps, or cracks in the pavement. I<br/>dimly sensed that there was more another secret justification, cruelly pedagogical, but I was unable to<br/>grasp it. <br/><br/><p>Today, citizen and victim of a consumer society, a civilization of excess and waste (which the <br/>society of the thirties was not), I realize that those dear and now departed elders were right. Two<br/>two-cent cones instead of one at four cents did not signify squandering, economically speaking,<br/>but symbolically they surely did. It was for this precise reason, that I yearned for them: because<br/>they ice creams suggested excess. And this was precisely why they were denied to me: because<br/>they looked indecent, an insult to poverty, a display of fictitious privilege, a boast of wealth.<br/>Only spoiled children ate two cones at once, those children who in fairy tales were rightly<br/>punished, as Pinocchio was when he rejected the skin and the stalk. And parents who <br/>encouraged this weakness, appropriate to little parvenus, were bringing up their children in the <br/>foolish theater of "I'd like to but I can't." They were preparing them to turn up at tourist-class<br/>check-in with a fake Gucci bag bought from a street peddler on the beach at Rimini.<br/><br/><p>Nowadays the moralist risks seeming at odds with morality, in a world where the consumer<br/>civilization now wants even adults to be spoiled, and promises them always somthing more,<br/>from the wristwatch in the box of detergent to the bonus bangle sheathed, with the magazineit<br/>accompanies, in a plastic envelope. Like the parents of those ambidextrous gluttons I so envied,<br/>the consumer civilization pretends to give more, but actually gives, for four cents, what is worth<br/>four cents. You will throwaway the old transistor radio to purchase the new one, that boasts an <br/>alarm clock as well, but some inexplicable defect in the mechanism will guarantee that the radio<br/>lasts only a year. The new cheap car will have leather seats, double side mirrors adjustable from <br/>inside. And a panelled dashboard, but it will not last nearly so long as the glorious old Fiat 500,<br/>which. Even when it broke down, could be started again with a kick.<br/><br/><p>The morality of the old days made Spartans of us all, while today's morality wants all of us to <br/>be Sybarites.   @@&& Which of the following cannot be inferred from the passage?]]></NAME>
+<ID><![CDATA[86]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Today's society is more extravagant than the society of the l930s.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The act of eating two ice cream cones is akin to a ceremonial process.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Elders rightly suggested that a boy turning eyes from one cone to the other was more likely to fall.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Despite seeming to promise more, the consumer civilization gives away exactly what the thing is worth.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[The consumer civilization attempts to spoil children and adults alike.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 75 to 78:   The passage given below is followed by a set of five <br/>questions. Choose most appropriate answer to each question.<br/><br/><p>When I was little, children were bought two kinds of ice cream, sold from those white wagons<br/>with canopies made of silvery metal: either the two-cent cone of the four-cent ice-cream pie.<br/>The two-cent cone was very small, in fact it could fit comfortably into a child's hand, and it was<br/>made by taking the ice cream from its container with a special scoop and piling it on the cone.<br/>Granny always suggested I eat only a part of the cone, then throw away the pointed end, because<br/>it had been touched by the vendor's hand (though that was the best part, nice and  crunchy, and it<br/>was regularly eaten in secret, after a pretence of discarding)<br/><br/><p>The four-cent pie was made by a special little machine, also silvery, which pressed two disks of<br/>sweet biscuit against a cylindrical section of ice cream. First you had to thrust your tongue into<br/>the gap between the biscuits until it touched the central nucleus of  ice cream; then, gradually,<br/>you ate the whole thing, the biscuit surface softening as they became soaked in the creamy nectar.<br/>Granny had no advice to given here: in theory the pies had been touched only by the machine; in<br/>practice, the vendor had held them in his hand while giving them to us, but it was impossible to <br/>isolate the contaminated area.<br/><br/><p>I was fascinated, however, by some of my peers, whose parents bought them not a four-cent pie<br/>but two two-cent cones. These privileged children advanced proudly with one cone in their right<br/>hand and one in their left; and expertly moving their head from side to side, they licked first one,<br/>then the other. This liturgy seemed to me so sumptuously enviable, that many times I asked to<br/>be allowed to celebrate it . In vain My elders were inflexible: a four-cent ice, yes; but two two-<br/>cent ones, absolutely no.<br/><br/><p>As anyone can see, neither mathematics nor economy nor dietetics justified this refusal. Nor did <br/>hygiene, assuming that in due course the tips of both cones were discarded. The pathetic, and<br/>obviously mendacious, justification was that a boy concerned with turning his eyes from one <br/>cone to the other was more inclined to stumble over stones, steps, or cracks in the pavement. I<br/>dimly sensed that there was more another secret justification, cruelly pedagogical, but I was unable to<br/>grasp it. <br/><br/><p>Today, citizen and victim of a consumer society, a civilization of excess and waste (which the <br/>society of the thirties was not), I realize that those dear and now departed elders were right. Two<br/>two-cent cones instead of one at four cents did not signify squandering, economically speaking,<br/>but symbolically they surely did. It was for this precise reason, that I yearned for them: because<br/>they ice creams suggested excess. And this was precisely why they were denied to me: because<br/>they looked indecent, an insult to poverty, a display of fictitious privilege, a boast of wealth.<br/>Only spoiled children ate two cones at once, those children who in fairy tales were rightly<br/>punished, as Pinocchio was when he rejected the skin and the stalk. And parents who <br/>encouraged this weakness, appropriate to little parvenus, were bringing up their children in the <br/>foolish theater of "I'd like to but I can't." They were preparing them to turn up at tourist-class<br/>check-in with a fake Gucci bag bought from a street peddler on the beach at Rimini.<br/><br/><p>Nowadays the moralist risks seeming at odds with morality, in a world where the consumer<br/>civilization now wants even adults to be spoiled, and promises them always somthing more,<br/>from the wristwatch in the box of detergent to the bonus bangle sheathed, with the magazineit<br/>accompanies, in a plastic envelope. Like the parents of those ambidextrous gluttons I so envied,<br/>the consumer civilization pretends to give more, but actually gives, for four cents, what is worth<br/>four cents. You will throwaway the old transistor radio to purchase the new one, that boasts an <br/>alarm clock as well, but some inexplicable defect in the mechanism will guarantee that the radio<br/>lasts only a year. The new cheap car will have leather seats, double side mirrors adjustable from <br/>inside. And a panelled dashboard, but it will not last nearly so long as the glorious old Fiat 500,<br/>which. Even when it broke down, could be started again with a kick.<br/><br/><p>The morality of the old days made Spartans of us all, while today's morality wants all of us to <br/>be Sybarites.   @@&& In the passage, the phrase "little parvenus" refers to]]></NAME>
+<ID><![CDATA[87]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[naughty midgets.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[old hags.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[arrogant people.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[young upstans.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[foolish kids.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 75 to 78:   The passage given below is followed by a set of five <br/>questions. Choose most appropriate answer to each question.<br/><br/><p>When I was little, children were bought two kinds of ice cream, sold from those white wagons<br/>with canopies made of silvery metal: either the two-cent cone of the four-cent ice-cream pie.<br/>The two-cent cone was very small, in fact it could fit comfortably into a child's hand, and it was<br/>made by taking the ice cream from its container with a special scoop and piling it on the cone.<br/>Granny always suggested I eat only a part of the cone, then throw away the pointed end, because<br/>it had been touched by the vendor's hand (though that was the best part, nice and  crunchy, and it<br/>was regularly eaten in secret, after a pretence of discarding)<br/><br/><p>The four-cent pie was made by a special little machine, also silvery, which pressed two disks of<br/>sweet biscuit against a cylindrical section of ice cream. First you had to thrust your tongue into<br/>the gap between the biscuits until it touched the central nucleus of  ice cream; then, gradually,<br/>you ate the whole thing, the biscuit surface softening as they became soaked in the creamy nectar.<br/>Granny had no advice to given here: in theory the pies had been touched only by the machine; in<br/>practice, the vendor had held them in his hand while giving them to us, but it was impossible to <br/>isolate the contaminated area.<br/><br/><p>I was fascinated, however, by some of my peers, whose parents bought them not a four-cent pie<br/>but two two-cent cones. These privileged children advanced proudly with one cone in their right<br/>hand and one in their left; and expertly moving their head from side to side, they licked first one,<br/>then the other. This liturgy seemed to me so sumptuously enviable, that many times I asked to<br/>be allowed to celebrate it . In vain My elders were inflexible: a four-cent ice, yes; but two two-<br/>cent ones, absolutely no.<br/><br/><p>As anyone can see, neither mathematics nor economy nor dietetics justified this refusal. Nor did <br/>hygiene, assuming that in due course the tips of both cones were discarded. The pathetic, and<br/>obviously mendacious, justification was that a boy concerned with turning his eyes from one <br/>cone to the other was more inclined to stumble over stones, steps, or cracks in the pavement. I<br/>dimly sensed that there was more another secret justification, cruelly pedagogical, but I was unable to<br/>grasp it. <br/><br/><p>Today, citizen and victim of a consumer society, a civilization of excess and waste (which the <br/>society of the thirties was not), I realize that those dear and now departed elders were right. Two<br/>two-cent cones instead of one at four cents did not signify squandering, economically speaking,<br/>but symbolically they surely did. It was for this precise reason, that I yearned for them: because<br/>they ice creams suggested excess. And this was precisely why they were denied to me: because<br/>they looked indecent, an insult to poverty, a display of fictitious privilege, a boast of wealth.<br/>Only spoiled children ate two cones at once, those children who in fairy tales were rightly<br/>punished, as Pinocchio was when he rejected the skin and the stalk. And parents who <br/>encouraged this weakness, appropriate to little parvenus, were bringing up their children in the <br/>foolish theater of "I'd like to but I can't." They were preparing them to turn up at tourist-class<br/>check-in with a fake Gucci bag bought from a street peddler on the beach at Rimini.<br/><br/><p>Nowadays the moralist risks seeming at odds with morality, in a world where the consumer<br/>civilization now wants even adults to be spoiled, and promises them always somthing more,<br/>from the wristwatch in the box of detergent to the bonus bangle sheathed, with the magazineit<br/>accompanies, in a plastic envelope. Like the parents of those ambidextrous gluttons I so envied,<br/>the consumer civilization pretends to give more, but actually gives, for four cents, what is worth<br/>four cents. You will throwaway the old transistor radio to purchase the new one, that boasts an <br/>alarm clock as well, but some inexplicable defect in the mechanism will guarantee that the radio<br/>lasts only a year. The new cheap car will have leather seats, double side mirrors adjustable from <br/>inside. And a panelled dashboard, but it will not last nearly so long as the glorious old Fiat 500,<br/>which. Even when it broke down, could be started again with a kick.<br/><br/><p>The morality of the old days made Spartans of us all, while today's morality wants all of us to <br/>be Sybarites.   @@&& The author pined for two two-cent cones instead of one four-cent pie because]]></NAME>
+<ID><![CDATA[88]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[it made dietetic sense.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[it suggested intemperance.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[it was more fun.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[it had a visual appeal.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[he was a glutton.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 75 to 78:   The passage given below is followed by a set of five <br/>questions. Choose most appropriate answer to each question.<br/><br/><p>When I was little, children were bought two kinds of ice cream, sold from those white wagons<br/>with canopies made of silvery metal: either the two-cent cone of the four-cent ice-cream pie.<br/>The two-cent cone was very small, in fact it could fit comfortably into a child's hand, and it was<br/>made by taking the ice cream from its container with a special scoop and piling it on the cone.<br/>Granny always suggested I eat only a part of the cone, then throw away the pointed end, because<br/>it had been touched by the vendor's hand (though that was the best part, nice and  crunchy, and it<br/>was regularly eaten in secret, after a pretence of discarding)<br/><br/><p>The four-cent pie was made by a special little machine, also silvery, which pressed two disks of<br/>sweet biscuit against a cylindrical section of ice cream. First you had to thrust your tongue into<br/>the gap between the biscuits until it touched the central nucleus of  ice cream; then, gradually,<br/>you ate the whole thing, the biscuit surface softening as they became soaked in the creamy nectar.<br/>Granny had no advice to given here: in theory the pies had been touched only by the machine; in<br/>practice, the vendor had held them in his hand while giving them to us, but it was impossible to <br/>isolate the contaminated area.<br/><br/><p>I was fascinated, however, by some of my peers, whose parents bought them not a four-cent pie<br/>but two two-cent cones. These privileged children advanced proudly with one cone in their right<br/>hand and one in their left; and expertly moving their head from side to side, they licked first one,<br/>then the other. This liturgy seemed to me so sumptuously enviable, that many times I asked to<br/>be allowed to celebrate it . In vain My elders were inflexible: a four-cent ice, yes; but two two-<br/>cent ones, absolutely no.<br/><br/><p>As anyone can see, neither mathematics nor economy nor dietetics justified this refusal. Nor did <br/>hygiene, assuming that in due course the tips of both cones were discarded. The pathetic, and<br/>obviously mendacious, justification was that a boy concerned with turning his eyes from one <br/>cone to the other was more inclined to stumble over stones, steps, or cracks in the pavement. I<br/>dimly sensed that there was more another secret justification, cruelly pedagogical, but I was unable to<br/>grasp it. <br/><br/><p>Today, citizen and victim of a consumer society, a civilization of excess and waste (which the <br/>society of the thirties was not), I realize that those dear and now departed elders were right. Two<br/>two-cent cones instead of one at four cents did not signify squandering, economically speaking,<br/>but symbolically they surely did. It was for this precise reason, that I yearned for them: because<br/>they ice creams suggested excess. And this was precisely why they were denied to me: because<br/>they looked indecent, an insult to poverty, a display of fictitious privilege, a boast of wealth.<br/>Only spoiled children ate two cones at once, those children who in fairy tales were rightly<br/>punished, as Pinocchio was when he rejected the skin and the stalk. And parents who <br/>encouraged this weakness, appropriate to little parvenus, were bringing up their children in the <br/>foolish theater of "I'd like to but I can't." They were preparing them to turn up at tourist-class<br/>check-in with a fake Gucci bag bought from a street peddler on the beach at Rimini.<br/><br/><p>Nowadays the moralist risks seeming at odds with morality, in a world where the consumer<br/>civilization now wants even adults to be spoiled, and promises them always somthing more,<br/>from the wristwatch in the box of detergent to the bonus bangle sheathed, with the magazineit<br/>accompanies, in a plastic envelope. Like the parents of those ambidextrous gluttons I so envied,<br/>the consumer civilization pretends to give more, but actually gives, for four cents, what is worth<br/>four cents. You will throwaway the old transistor radio to purchase the new one, that boasts an <br/>alarm clock as well, but some inexplicable defect in the mechanism will guarantee that the radio<br/>lasts only a year. The new cheap car will have leather seats, double side mirrors adjustable from <br/>inside. And a panelled dashboard, but it will not last nearly so long as the glorious old Fiat 500,<br/>which. Even when it broke down, could be started again with a kick.<br/><br/><p>The morality of the old days made Spartans of us all, while today's morality wants all of us to <br/>be Sybarites.   @@&& What does the author mean by "nowadays the moralist risks seeming at odds with<br/>Morality"?]]></NAME>
+<ID><![CDATA[89]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[The moralists of yesterday have become immoral today.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The concept of morality has changed over the years.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Consumerism is amoral.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[The risks associated with immorality have gone up.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[The purist’s view of morality is fast becoming popular.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 79 to 82: The passage given below is followed by a set of live questions. Choose<br/>the most appropriate answer to each question.<br/><br/>Fifteen years after communism was officially pronounced dead, its spectre seems once again to be haunting<br/>Europe. Last month. the Council of Europe's parliamentary assembly voted to condemn the "crimes of<br/>totalitarian communist regimes." linking them with Nazism and complaining that communist parties are still<br/>"legal and active in some countries." Now Goran Lindblad. the conservative Swedish MP behind the<br/>resolution. wants to go further. Demands that European Ministers launch a continent-wide anti-communist<br/>campaign - including school textbook revisions. official memorial days. and museums - only narrowly<br/>missed the necessary two-thirds majority. Mr. Lindblad pledged to bring the wider plans back to the Council<br/>of Europe in the coming months.<br/><br/>He has chosen a good year for his ideological offensive: this is the 50th   anniversary of Nikita Khrushchev’s<br/>denunciation of Josef Stalin and the subsequent Hungarian uprising. which will doubtless be the cue for<br/>further excoriation of the communist record. Paradoxically. given that there is no communist government left<br/>in Europe outside Moldova,. the attacks have if anything. become more extreme as time has gone on. A clue<br/>as to why that might be can be found in the rambling report by Mr. Lindblad that led to the Council of Europe<br/>declaration. Blaming class struggle and public ownership. he explained "different elements of communist<br/>ideology such as equality or social justice still seduce many" and "a son of nostalgia for communism is still<br/>alive." Perhaps the real problem for Mr. Lindblad and his right-wing allies in Eastern Europe is that<br/>communism is not dead enough - and they will only be content when they have driven a stake through its<br/>heart.<br/><br/>The fashionable attempt to equate communism and Nazism is in reality a moral and historical nonsense.<br/>Despite the cruelties of the Stalin terror. there was no Soviet Treblinka or Sorbibor. no extermination camps<br/>built to murder millions. Nor did the Soviet Union launch the most devastating war in history at a cost of<br/>more than 50 million lives - in fact it played the decisive role in the defeat of the German war machine. Mr.<br/>Lindblad and the Council of Europe adopt as fact the wildest estimates of those "killed by communist<br/>regimes" (mostly in famines) from the fiercely contested Black Book of Communism. which also underplays<br/>the number of deaths attributable to Hitler. But. in any case. none of this explains why anyone might be<br/>nostalgic in former communist states. now enjoying the delights of capitalist restoration. The dominant<br/>account gives no sense of how communist regimes renewed themselves alter 1956 or why Western leaders<br/>feared they might overtake the capitalist world well into the 1960s. For all its brutalities and failures.<br/>communism in the Soviet Union, Eastern Europe, and elsewhere delivered rapid industrialization. mass<br/>education. job security. and huge advances in social and gender equality Its existence helped to drive up<br/>welfare standards in the West. and provided a powerful counterweight to Western global domination.<br/><br/>It would be easier to take the Council of Europe's condemnation of communist stale crimes seriously it it had<br/>also seen lit to denounce the far bloodier record of European colonialism - which only finally came to an end<br/>in the 1970s. This was a system of racist despotism. which dominated the globe in Stalin's time. And while<br/>there is precious little connection between the ideas of fascism and communism. there is an intimate link<br/>between colonialism and Nazism. The terms lebesraum and konzentrationslager were both first used by the<br/>German colonial regime in south-west Africa (now Namibia). which committed genocide against the Herero<br/>and Nama peoples and bequeathed its ideas and personnel directly to the Nazi party.<br/><br/>Around 10 million Congolese died as a result of Belgian forced labour and mass murder in the early twentieth<br/>century: tens of millions perished in avoidable or enforced famines in British-ruled India: up to a million<br/>Algerians died in their war for independence. while controversy now rages in France about a new law<br/>requiring teachers to put a positive spin on colonial history. Comparable atrocities were carried out by all.<br/><br/> <br/><br/>European colonialists, but not a word of condemnation from the Council of Europe. Presumably, European<br/>lives count for more.<br/><br/>No major twentieth century political tradition is without blood on its hands. but battles over history are more<br/>about the future than the past. Pan of the current enthusiasm in official Western circles for dancing on the<br/>grave of communism is no doubt about relations with today's Russia and China. But it also reflects a<br/>determination to prove there is no alternative to the new global capitalist order - and that any attempt to find<br/>one is bound can be solved within the existing economic system. the pressure for alternatives will<br/>increase.<br/><br/> @@&& Among all the apprehensions that Mr.Goren Lindblad expresses against communism,which ones gets admitted,although indirectley,by the author?]]></NAME>
+<ID><![CDATA[91]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[There is nostalgia for communist ideology even if communism has been abandoned by most European nations]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Nations of social justice inherent in communist ideology appeal to critics of existing systems.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Communist regimes were totalitarian and marked by brutalities and large scale violence.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[The existing economic order is wrongly viewed as imperialistics by proponents of communism.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Communist ideology is faulted because communist regimes resulted in economic failures. ]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 79 to 82: The passage given below is followed by a set of live questions. Choose<br/>the most appropriate answer to each question.<br/><br/>Fifteen years after communism was officially pronounced dead, its spectre seems once again to be haunting<br/>Europe. Last month. the Council of Europe's parliamentary assembly voted to condemn the "crimes of<br/>totalitarian communist regimes." linking them with Nazism and complaining that communist parties are still<br/>"legal and active in some countries." Now Goran Lindblad. the conservative Swedish MP behind the<br/>resolution. wants to go further. Demands that European Ministers launch a continent-wide anti-communist<br/>campaign - including school textbook revisions. official memorial days. and museums - only narrowly<br/>missed the necessary two-thirds majority. Mr. Lindblad pledged to bring the wider plans back to the Council<br/>of Europe in the coming months.<br/><br/>He has chosen a good year for his ideological offensive: this is the 50th   anniversary of Nikita Khrushchev’s<br/>denunciation of Josef Stalin and the subsequent Hungarian uprising. which will doubtless be the cue for<br/>further excoriation of the communist record. Paradoxically. given that there is no communist government left<br/>in Europe outside Moldova,. the attacks have if anything. become more extreme as time has gone on. A clue<br/>as to why that might be can be found in the rambling report by Mr. Lindblad that led to the Council of Europe<br/>declaration. Blaming class struggle and public ownership. he explained "different elements of communist<br/>ideology such as equality or social justice still seduce many" and "a son of nostalgia for communism is still<br/>alive." Perhaps the real problem for Mr. Lindblad and his right-wing allies in Eastern Europe is that<br/>communism is not dead enough - and they will only be content when they have driven a stake through its<br/>heart.<br/><br/>The fashionable attempt to equate communism and Nazism is in reality a moral and historical nonsense.<br/>Despite the cruelties of the Stalin terror. there was no Soviet Treblinka or Sorbibor. no extermination camps<br/>built to murder millions. Nor did the Soviet Union launch the most devastating war in history at a cost of<br/>more than 50 million lives - in fact it played the decisive role in the defeat of the German war machine. Mr.<br/>Lindblad and the Council of Europe adopt as fact the wildest estimates of those "killed by communist<br/>regimes" (mostly in famines) from the fiercely contested Black Book of Communism. which also underplays<br/>the number of deaths attributable to Hitler. But. in any case. none of this explains why anyone might be<br/>nostalgic in former communist states. now enjoying the delights of capitalist restoration. The dominant<br/>account gives no sense of how communist regimes renewed themselves alter 1956 or why Western leaders<br/>feared they might overtake the capitalist world well into the 1960s. For all its brutalities and failures.<br/>communism in the Soviet Union, Eastern Europe, and elsewhere delivered rapid industrialization. mass<br/>education. job security. and huge advances in social and gender equality Its existence helped to drive up<br/>welfare standards in the West. and provided a powerful counterweight to Western global domination.<br/><br/>It would be easier to take the Council of Europe's condemnation of communist stale crimes seriously it it had<br/>also seen lit to denounce the far bloodier record of European colonialism - which only finally came to an end<br/>in the 1970s. This was a system of racist despotism. which dominated the globe in Stalin's time. And while<br/>there is precious little connection between the ideas of fascism and communism. there is an intimate link<br/>between colonialism and Nazism. The terms lebesraum and konzentrationslager were both first used by the<br/>German colonial regime in south-west Africa (now Namibia). which committed genocide against the Herero<br/>and Nama peoples and bequeathed its ideas and personnel directly to the Nazi party.<br/><br/>Around 10 million Congolese died as a result of Belgian forced labour and mass murder in the early twentieth<br/>century: tens of millions perished in avoidable or enforced famines in British-ruled India: up to a million<br/>Algerians died in their war for independence. while controversy now rages in France about a new law<br/>requiring teachers to put a positive spin on colonial history. Comparable atrocities were carried out by all.<br/><br/> <br/><br/>European colonialists, but not a word of condemnation from the Council of Europe. Presumably, European<br/>lives count for more.<br/><br/>No major twentieth century political tradition is without blood on its hands. but battles over history are more<br/>about the future than the past. Pan of the current enthusiasm in official Western circles for dancing on the<br/>grave of communism is no doubt about relations with today's Russia and China. But it also reflects a<br/>determination to prove there is no alternative to the new global capitalist order - and that any attempt to find<br/>one is bound can be solved within the existing economic system. the pressure for alternatives will<br/>increase.<br/><br/> @@&& What,according to the author,is the real reason for a renewed attack against communism?]]></NAME>
+<ID><![CDATA[92]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Disguising the unintended consequences of the current economic order such as social injustice and environmental crises.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Idealising the existing ideology of global capitalism.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Making communism a generic representative of all historical atrocities, especially those perpetrated by the European imperialists.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Communism still survives,in bits and pieces, in the minds and hearts of people.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[Renewal of some communist regimes has led to the apprehension that communist nations might overtake the capitalists.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 79 to 82: The passage given below is followed by a set of live questions. Choose<br/>the most appropriate answer to each question.<br/><br/>Fifteen years after communism was officially pronounced dead, its spectre seems once again to be haunting<br/>Europe. Last month. the Council of Europe's parliamentary assembly voted to condemn the "crimes of<br/>totalitarian communist regimes." linking them with Nazism and complaining that communist parties are still<br/>"legal and active in some countries." Now Goran Lindblad. the conservative Swedish MP behind the<br/>resolution. wants to go further. Demands that European Ministers launch a continent-wide anti-communist<br/>campaign - including school textbook revisions. official memorial days. and museums - only narrowly<br/>missed the necessary two-thirds majority. Mr. Lindblad pledged to bring the wider plans back to the Council<br/>of Europe in the coming months.<br/><br/>He has chosen a good year for his ideological offensive: this is the 50th   anniversary of Nikita Khrushchev’s<br/>denunciation of Josef Stalin and the subsequent Hungarian uprising. which will doubtless be the cue for<br/>further excoriation of the communist record. Paradoxically. given that there is no communist government left<br/>in Europe outside Moldova,. the attacks have if anything. become more extreme as time has gone on. A clue<br/>as to why that might be can be found in the rambling report by Mr. Lindblad that led to the Council of Europe<br/>declaration. Blaming class struggle and public ownership. he explained "different elements of communist<br/>ideology such as equality or social justice still seduce many" and "a son of nostalgia for communism is still<br/>alive." Perhaps the real problem for Mr. Lindblad and his right-wing allies in Eastern Europe is that<br/>communism is not dead enough - and they will only be content when they have driven a stake through its<br/>heart.<br/><br/>The fashionable attempt to equate communism and Nazism is in reality a moral and historical nonsense.<br/>Despite the cruelties of the Stalin terror. there was no Soviet Treblinka or Sorbibor. no extermination camps<br/>built to murder millions. Nor did the Soviet Union launch the most devastating war in history at a cost of<br/>more than 50 million lives - in fact it played the decisive role in the defeat of the German war machine. Mr.<br/>Lindblad and the Council of Europe adopt as fact the wildest estimates of those "killed by communist<br/>regimes" (mostly in famines) from the fiercely contested Black Book of Communism. which also underplays<br/>the number of deaths attributable to Hitler. But. in any case. none of this explains why anyone might be<br/>nostalgic in former communist states. now enjoying the delights of capitalist restoration. The dominant<br/>account gives no sense of how communist regimes renewed themselves alter 1956 or why Western leaders<br/>feared they might overtake the capitalist world well into the 1960s. For all its brutalities and failures.<br/>communism in the Soviet Union, Eastern Europe, and elsewhere delivered rapid industrialization. mass<br/>education. job security. and huge advances in social and gender equality Its existence helped to drive up<br/>welfare standards in the West. and provided a powerful counterweight to Western global domination.<br/><br/>It would be easier to take the Council of Europe's condemnation of communist stale crimes seriously it it had<br/>also seen lit to denounce the far bloodier record of European colonialism - which only finally came to an end<br/>in the 1970s. This was a system of racist despotism. which dominated the globe in Stalin's time. And while<br/>there is precious little connection between the ideas of fascism and communism. there is an intimate link<br/>between colonialism and Nazism. The terms lebesraum and konzentrationslager were both first used by the<br/>German colonial regime in south-west Africa (now Namibia). which committed genocide against the Herero<br/>and Nama peoples and bequeathed its ideas and personnel directly to the Nazi party.<br/><br/>Around 10 million Congolese died as a result of Belgian forced labour and mass murder in the early twentieth<br/>century: tens of millions perished in avoidable or enforced famines in British-ruled India: up to a million<br/>Algerians died in their war for independence. while controversy now rages in France about a new law<br/>requiring teachers to put a positive spin on colonial history. Comparable atrocities were carried out by all.<br/><br/> <br/><br/>European colonialists, but not a word of condemnation from the Council of Europe. Presumably, European<br/>lives count for more.<br/><br/>No major twentieth century political tradition is without blood on its hands. but battles over history are more<br/>about the future than the past. Pan of the current enthusiasm in official Western circles for dancing on the<br/>grave of communism is no doubt about relations with today's Russia and China. But it also reflects a<br/>determination to prove there is no alternative to the new global capitalist order - and that any attempt to find<br/>one is bound can be solved within the existing economic system. the pressure for alternatives will<br/>increase.<br/><br/> @@&& The author cites examples of atrocities perpetrated by European colonial regimes in order to]]></NAME>
+<ID><![CDATA[93]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[compare the atrocities committed by colonial regimes with those of communist regimes]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[prove that the atrocities committed by colonial regimes were more than those of communist regimes.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[prove that,ideologically,communism was much better than colonialism and Nazism.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[neutralise the arguments of Mr.Lindblad and to point out that the atrocities committed by colonial regimes were more than those of communist regimes.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[neutralise the arguments of Mr.Lindblad and to argue that one needs to go beyond and look at the moitves of the regimes.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 79 to 82: The passage given below is followed by a set of live questions. Choose<br/>the most appropriate answer to each question.<br/><br/>Fifteen years after communism was officially pronounced dead, its spectre seems once again to be haunting<br/>Europe. Last month. the Council of Europe's parliamentary assembly voted to condemn the "crimes of<br/>totalitarian communist regimes." linking them with Nazism and complaining that communist parties are still<br/>"legal and active in some countries." Now Goran Lindblad. the conservative Swedish MP behind the<br/>resolution. wants to go further. Demands that European Ministers launch a continent-wide anti-communist<br/>campaign - including school textbook revisions. official memorial days. and museums - only narrowly<br/>missed the necessary two-thirds majority. Mr. Lindblad pledged to bring the wider plans back to the Council<br/>of Europe in the coming months.<br/><br/>He has chosen a good year for his ideological offensive: this is the 50th   anniversary of Nikita Khrushchev’s<br/>denunciation of Josef Stalin and the subsequent Hungarian uprising. which will doubtless be the cue for<br/>further excoriation of the communist record. Paradoxically. given that there is no communist government left<br/>in Europe outside Moldova,. the attacks have if anything. become more extreme as time has gone on. A clue<br/>as to why that might be can be found in the rambling report by Mr. Lindblad that led to the Council of Europe<br/>declaration. Blaming class struggle and public ownership. he explained "different elements of communist<br/>ideology such as equality or social justice still seduce many" and "a son of nostalgia for communism is still<br/>alive." Perhaps the real problem for Mr. Lindblad and his right-wing allies in Eastern Europe is that<br/>communism is not dead enough - and they will only be content when they have driven a stake through its<br/>heart.<br/><br/>The fashionable attempt to equate communism and Nazism is in reality a moral and historical nonsense.<br/>Despite the cruelties of the Stalin terror. there was no Soviet Treblinka or Sorbibor. no extermination camps<br/>built to murder millions. Nor did the Soviet Union launch the most devastating war in history at a cost of<br/>more than 50 million lives - in fact it played the decisive role in the defeat of the German war machine. Mr.<br/>Lindblad and the Council of Europe adopt as fact the wildest estimates of those "killed by communist<br/>regimes" (mostly in famines) from the fiercely contested Black Book of Communism. which also underplays<br/>the number of deaths attributable to Hitler. But. in any case. none of this explains why anyone might be<br/>nostalgic in former communist states. now enjoying the delights of capitalist restoration. The dominant<br/>account gives no sense of how communist regimes renewed themselves alter 1956 or why Western leaders<br/>feared they might overtake the capitalist world well into the 1960s. For all its brutalities and failures.<br/>communism in the Soviet Union, Eastern Europe, and elsewhere delivered rapid industrialization. mass<br/>education. job security. and huge advances in social and gender equality Its existence helped to drive up<br/>welfare standards in the West. and provided a powerful counterweight to Western global domination.<br/><br/>It would be easier to take the Council of Europe's condemnation of communist stale crimes seriously it it had<br/>also seen lit to denounce the far bloodier record of European colonialism - which only finally came to an end<br/>in the 1970s. This was a system of racist despotism. which dominated the globe in Stalin's time. And while<br/>there is precious little connection between the ideas of fascism and communism. there is an intimate link<br/>between colonialism and Nazism. The terms lebesraum and konzentrationslager were both first used by the<br/>German colonial regime in south-west Africa (now Namibia). which committed genocide against the Herero<br/>and Nama peoples and bequeathed its ideas and personnel directly to the Nazi party.<br/><br/>Around 10 million Congolese died as a result of Belgian forced labour and mass murder in the early twentieth<br/>century: tens of millions perished in avoidable or enforced famines in British-ruled India: up to a million<br/>Algerians died in their war for independence. while controversy now rages in France about a new law<br/>requiring teachers to put a positive spin on colonial history. Comparable atrocities were carried out by all.<br/><br/> <br/><br/>European colonialists, but not a word of condemnation from the Council of Europe. Presumably, European<br/>lives count for more.<br/><br/>No major twentieth century political tradition is without blood on its hands. but battles over history are more<br/>about the future than the past. Pan of the current enthusiasm in official Western circles for dancing on the<br/>grave of communism is no doubt about relations with today's Russia and China. But it also reflects a<br/>determination to prove there is no alternative to the new global capitalist order - and that any attempt to find<br/>one is bound can be solved within the existing economic system. the pressure for alternatives will<br/>increase.<br/><br/> @@&& Why,according to the author,isNazism closer to colonialism than it is to Communism?]]></NAME>
+<ID><![CDATA[94]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Both colonialism and Nazism were examples of tyranny of one race over another.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The genocides committed by colonial and the Nazi regimes were of similar magnitude.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Several ideas of the Nazi regime were directly imported from colonial regimes.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[Both colonialism and Nazism are based on the principles of imperialism.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[While communism was never limited to Europe,both the Nazis and the colonialist originated in  Europe.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 83 to 86: Each question has a set of four sequentially ordered statements. Each<br/>statement can be classified as one of the following:<br/><br/>-  Facts, which deal with pieces of information that one has heard. seen or read. and which are open to<br/>discovery or verification (the answer option indicates such a statement with an ‘F‘).<br/><br/>- Inferences, which are conclusions drawn about the unknown, on the basis of the known (the answer<br/>option indicates such a statement with an ‘I’).<br/><br/>- Judgements, which are opinions that imply approval or disapproval of persons. objects. situations and<br/>occurrences in the past. the present or the future (the answer option indicates such a statement with an‘J').<br/><br/>Select the answer ogtion that best describes the set of four statements. @@&& 1. Given the poor quality of service in the public sector. the HIV/AIDS affected should be switching to<br/>private initiatives that supply anti-retroviral drugs (ARVs) at a low cost.<br/><br/>2. The government has been supplying free drugs since 2004. and 35000 have benefited up to now  though<br/>the size of the affected population is 150 times this number.<br/><br/>3. The recent initiatives of networks and companies like AIDSC are Network. Emcure, Reliance-Cipla-Cll,<br/>would lead to availability of much-needed drugs to a larger number affected people.<br/><br/>4. But how ironic it is that we should face a perennial shortage of drugs when India is one of the world's<br/>largest suppliers of generic drugs to the developing world.]]></NAME>
+<ID><![CDATA[96]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[JFIJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[JIIJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[IFIJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[IFFJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[JFII]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 83 to 86: Each question has a set of four sequentially ordered statements. Each<br/>statement can be classified as one of the following:<br/><br/>-  Facts, which deal with pieces of information that one has heard. seen or read. and which are open to<br/>discovery or verification (the answer option indicates such a statement with an ‘F‘).<br/><br/>- Inferences, which are conclusions drawn about the unknown, on the basis of the known (the answer<br/>option indicates such a statement with an ‘I’).<br/><br/>- Judgements, which are opinions that imply approval or disapproval of persons. objects. situations and<br/>occurrences in the past. the present or the future (the answer option indicates such a statement with an‘J').<br/><br/>Select the answer ogtion that best describes the set of four statements. @@&& 1. Inequitable distribution of all kinds of resources is certainly one of the strongest and most sinister sources<br/>of conflict.<br/>2. Even without war, we know that conflicts continue to trouble us - they only change in character.<br/>3. Extensive disarmament is the only insurance for our future: imagine the amount of resources that can be<br/>released and redeployed.<br/>4. The economies of the industrialized western world derive 20% of their income from the sale of all kinds<br/>of arms.]]></NAME>
+<ID><![CDATA[97]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[IJJI]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[JIJF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[IIJF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[JIIF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[IJIF]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 83 to 86: Each question has a set of four sequentially ordered statements. Each<br/>statement can be classified as one of the following:<br/><br/>-  Facts, which deal with pieces of information that one has heard. seen or read. and which are open to<br/>discovery or verification (the answer option indicates such a statement with an ‘F‘).<br/><br/>- Inferences, which are conclusions drawn about the unknown, on the basis of the known (the answer<br/>option indicates such a statement with an ‘I’).<br/><br/>- Judgements, which are opinions that imply approval or disapproval of persons. objects. situations and<br/>occurrences in the past. the present or the future (the answer option indicates such a statement with an‘J').<br/><br/>Select the answer ogtion that best describes the set of four statements. @@&& 1. We should not be hopelessly addicted to an erroneous belief that corruption in India is caused by the<br/>crookedness of Indians.<br/>2. The truth is that we have more red tape - we take eighty-nine days to start a small business. Australians<br/>take two.<br/>3. Red tape leads to corruption and distorts a people‘s character.<br/>4. Every red tape procedure is a point of contact with an official. and such contacts have the potential to<br/>become opportunities for money to change hands.]]></NAME>
+<ID><![CDATA[98]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[JFIF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[JFJJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[JIJF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[IFJF]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[JFJI]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 83 to 86: Each question has a set of four sequentially ordered statements. Each<br/>statement can be classified as one of the following:<br/><br/>-  Facts, which deal with pieces of information that one has heard. seen or read. and which are open to<br/>discovery or verification (the answer option indicates such a statement with an ‘F‘).<br/><br/>- Inferences, which are conclusions drawn about the unknown, on the basis of the known (the answer<br/>option indicates such a statement with an ‘I’).<br/><br/>- Judgements, which are opinions that imply approval or disapproval of persons. objects. situations and<br/>occurrences in the past. the present or the future (the answer option indicates such a statement with an‘J').<br/><br/>Select the answer ogtion that best describes the set of four statements. @@&& <br/>So much of our day-to-day focus seems to be on getting things done,trudging our way through the tasks of living  -- it can feel like a treadmill that gets you nowhere: where is the childlike joy?<br/>We are not doing the things that make us happy: that which brings us joy :the things that we cannot wait to do because we enjoy them so much.<br/>This is the stuff that joyful living is made of – identifying your calling and committing yourself wholeheartedly to it.<br/>When this happens, each moment becomes a celebration of you; there is a rush of energy that comes with feeling completely immersed in doing what you love most.]]></NAME>
+<ID><![CDATA[99]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[IIIJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[IFIJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[JFJJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[JJJJ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[JFII]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 87 to 90:   Each question consists of  four sentences on a topic.some     sentences are grammatically incorrect or inappropriate. Select the option that indicates the      grammatically correct and appropriate sentences (s). @@&& A. When virtuoso teams begin their work, individuals are in and group consensus is out.<br/>B.  As project progresses, however , the individual stars harness themselves to the product of the          group.<br/>C.Sooner or later, the members break through their own egocentrism and become a plurality with single-minded focus on the goal.<br/>D. In short, they morph into a powerful team with a shared identify.]]></NAME>
+<ID><![CDATA[101]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A&C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[A&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[B&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A,C&D]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 87 to 90:   Each question consists of  four sentences on a topic.some     sentences are grammatically incorrect or inappropriate. Select the option that indicates the      grammatically correct and appropriate sentences (s). @@&&  A. Large reductions in the ozone layer,which sits about 15-30 km above the Earth, take place each <br/>       winter over the polar regions, especially the Antarctic ,as low temperatures allow the formation  <br/>      of stratospheric clouds that assist chemical reaction breaking down ozone.<br/>  B. Industrial chemicals containing chlorinc and bromine have been blamed for thinning the layer<br/>       because they attack the ozone molecules,making them to break apart .<br/>  C. Many an offending chemicals have now been banned.<br/>  D. It will still take several decades before these substances have disappeared from the atomsphere.]]></NAME>
+<ID><![CDATA[102]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[B&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A&C]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 87 to 90:   Each question consists of  four sentences on a topic.some     sentences are grammatically incorrect or inappropriate. Select the option that indicates the      grammatically correct and appropriate sentences (s). @@&&   A. The balance of power will shift to the East as China and India evovle.<br/>  B. Rarely the economic ascent of two still relatively poor nations has been watched with such a <br/>       mixture of awe,opportunism,and trepidation.  <br/>  C.Postwar era witnessed economic miracles in japan and south Korea, but neither was populous<br/>      enough to power worldwide growth or change the game in a complete spectrum of industries. <br/>  D. China and India by contrast.process the weight and dynamism to transform the 21st-century <br/>        global economy.]]></NAME>
+<ID><![CDATA[103]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A,B&C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[A&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[C&D]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 87 to 90:   Each question consists of  four sentences on a topic.some     sentences are grammatically incorrect or inappropriate. Select the option that indicates the      grammatically correct and appropriate sentences (s). @@&& A. People have good reason to care about the welfare of animals.<br/>B. Ever since Enlightenment. their treatment has been seen as a measure of mankind's humanity.<br/>C. It is no coincidence that William Wilberforce and Sir Thomas Foxwell Buxton. two leaders of the<br/>    movement to abolish the slave trade. helped found the Royal Society for the Prevention ofCruelty<br/>     to Animals in l820s.<br/>D. An increasing number of people go further: mankind has a duty not to cause pain to animals that<br/>     have the capacity to suffer.]]></NAME>
+<ID><![CDATA[104]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A&D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[B]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A&C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[C&D]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Question 91 to 93: In each of the following questions there are sentences that form a paragraph. Identify the sentence(s) or part(s) of sentence(s) that is/are correct in terms of grammar and usage (including spelling, punctuation and logical consistency). Then, choose the most appropriate option. @@&& A. In 1849,a poor Bavarian imigrant named Levi Strauss <br/>B. landed in San Francisco, California, <br/>C. at the invitation of his brother-in-law David Stern <br/>D. owner of dry goods business <br/>E.This dry goods business would later became known as Levi Strauss & Company.]]></NAME>
+<ID><![CDATA[106]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[B only  ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[B and C  ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A and B]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A only]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[A,B and D ]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Question 91 to 93: In each of the following questions there are sentences that form a paragraph. Identify the sentence(s) or part(s) of sentence(s) that is/are correct in terms of grammar and usage (including spelling, punctuation and logical consistency). Then, choose the most appropriate option. @@&& A. In response to the allegations and condemnation pouring in<br/>B. Nike implemented comprehensive changes in their labour policy. <br/>C. Perhaps sensing the rising tide of global labour concerns, <br/>D. from the public would become a prominent media issue, <br/>E. Nike sought to be a industry leader in employee relations.]]></NAME>
+<ID><![CDATA[107]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[D and E ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[D only]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A and E]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A and D ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[B,C and E ]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Question 91 to 93: In each of the following questions there are sentences that form a paragraph. Identify the sentence(s) or part(s) of sentence(s) that is/are correct in terms of grammar and usage (including spelling, punctuation and logical consistency). Then, choose the most appropriate option. @@&& A. Charges and countercharges mean nothing<br/>B. To the few million who have lost their home.<br/>C. The nightmare is far from over, for the government <br/>D. is still unable to reach hundreds who are marooned.<br/>E. The death count have just begun.]]></NAME>
+<ID><![CDATA[108]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A only ]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[C only]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[A and C]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[A,C and D]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="5"><![CDATA[D only]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 94 to 96: Four alternative summaries are given below each text. Choose the optionthat best captures the essence of the text. @@&& Although almost all climate scientists agree that the Earth is gradually warming. they have long been of two minds about the process of rapid climate shifts within larger periods of change. Some have speculated that the process works like a giant oven or freezer. warming or cooling the whole planet at the same time. Others think that shifts occur on opposing schedules in the Northern and Southern llemispheres, like exaggerated seasons. Recent research in Germany examining climate patterns in the Southern Hemisphere at the end of the last Ice Age strengthens the idea that warming and cooling occurs at altemate times in the two hemispheres. A more deﬁnitive answer to this debate will allow scientists to better predict when and how quickly the next climate shift will happen.]]></NAME>
+<ID><![CDATA[110]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Scientists have been unsure whether rapid shifts in the Earth's climate happen all at once or on
+opposing schedules in different hemispheres; research will help ﬁnd a deﬁnitive answer and
+better predict climate shifts in future.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Scientists have been unsure whether rapid shifts in the Earth‘s climate happen all at once or on
+opposing schedules in different hemispheres; ﬁnding a deﬁnitive answer will help them better
+predict climate shifts in future.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Research in Germany will help scientists find a definitive answer about warming and cooling of
+the Earth and predict climate shifts in the future in a better manner.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[More research rather than debates on warming or cooling of the Earth and exaggerated seasons in
+its hemispheres will help scientists in Germany predict climate changes better in future.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 94 to 96: Four alternative summaries are given below each text. Choose the optionthat best captures the essence of the text. @@&& Local communities have often come in conflict with agents trying to exploit resources. at a faster pace.for an expanding commercial-industrial economy. More otten than not. such agents of resource-intensiﬁcation are given preferential treatment by the state. throtigh the giant of generous long leases over nineral or fish stocks, for example, or the provision of raw material at an enormously subsidized price. With the injustice so compounded. local communities at the receiving end of this process have no eeourse except direct action. resisting both the state and outside exploiters through a variety of protest :eehniques. These struggles might perhaps be seen as a manifestation of a new kind ofclass conllict.]]></NAME>
+<ID><![CDATA[111]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[A new kind of class conllict arises from preferential treatment given to agents of resource-
+intensification by the state which the local community sees as unfair.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[The grant of long leases to agents of resource-intcnsiﬁcation for an expanding commercial-
+industrial economy leads to direct protests from the local community, which sees it as unfair.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Preferential treatment given by the state to agents of resource-intensitlcation for an expanding commercial-indtistrial economy exacerbates injustice to local communties and leads to direct protests from them, resulting in a new type of class conllict.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[ Local communities have no option but to proiest against agents of resource-intensification and
+create a new type of class conllict when they are given raw material at subsidized prices for an
+expanding commercial-industrial economy.]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 94 to 96: Four alternative summaries are given below each text. Choose the optionthat best captures the essence of the text. @@&& Modem bourgeois society. said Nietzsche, was decadent and enfeebled - a victim of the excessive<br/>development of the rational faculties at the expense of will and instinct. Against the liberal-rationalist<br/>stress on the intellect. Nietzsche urged recognition of the dark mysterious world of instinctual desires —<br/>the true forces of life. Smother the will with excessive intellectualizing and you destroy the spontaneity<br/>that sparks cultural creativity and ignites a zest for living. The critical and theoretical outlook destroyed<br/>the creative instincts. For man's manifold potential to be realized. he must forego relying on the intellect<br/>and nurture again the instinctual roots of human existence.]]></NAME>
+<ID><![CDATA[112]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[Nietzsche urges the decadent and enfeebled modem society to forego intellect and give
+importance to creative instincts.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[Nietzsclie urges the decadent and enfeebled modern society to smother the will with excessive
+intellectualising and ignite a zest for living.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[Nietzsche criticizes the intellectuals for enfeebling the modern bourgeois society by not nurturing
+man‘s creative instincts.]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[ Nietzsche blames excessive intellectualization for the decline of modern society and suggests
+nurturing creative instincts instead.]]></ANSWER>
+</QUESTION>
+<QUESTION ISPARENT="Y" TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 97 to 100; The sentences given in each question. when properly sequenced, form a<br/>coherent paragraph. Each sentence is labeled with a letter. Choose the most logical order of sentences front among<br/>the given choices to construct a coherent paragraph. @@&& A. He felt justified in bypassing Congress altogether on a variety of moves.<br/><br/>B. At times he was fighting the entire Congress.<br/><br/>C. Bush felt he had a mission to restore power to the presidency.<br/><br/>D. Bush was not fighting just the democrats.<br/><br/>E. Representative democracy is a messy business, and a CEO of the White House does not like a legislature of second guessers and time wasters.]]></NAME>
+<ID><![CDATA[114]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[CAEDB]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[DBAEC]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[CEADB]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[ECDBA]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 97 to 100; The sentences given in each question. when properly sequenced, form a<br/>coherent paragraph. Each sentence is labeled with a letter. Choose the most logical order of sentences front among<br/>the given choices to construct a coherent paragraph. @@&& A. The two neighbours never fought each other.<br/>B. Fights involving three male ﬁddler crabs have been recorded. but the status of the participants<br/>was unknown.<br/>C. They pushed or grappled only with the intruder.<br/>D. We recorded I7 cases in which a resident that was lighting an intruder was joined by an<br/>immediate neighbour, an ally.<br/>E. We therefore tracked 268 intruder males until we saw them fighting a resident male]]></NAME>
+<ID><![CDATA[115]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[BEDAC]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[DEBAC]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[BDCAE]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[BCEDA]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 97 to 100; The sentences given in each question. when properly sequenced, form a<br/>coherent paragraph. Each sentence is labeled with a letter. Choose the most logical order of sentences front among<br/>the given choices to construct a coherent paragraph. @@&& A. In the west. Allied Forces had fought their way through southern Italy as far as Rome.<br/>B. In June 1944 Germany's military position in World War Two appeared hopeless.<br/>C. In Britain. the task of amassing the men and materials For the liberation of northern Europe had<br/>been completed.<br/>D. The Red Army was poised to drive the Nazis back through Poland.<br/>E. The situation on the eastern front was catastrophic.]]></NAME>
+<ID><![CDATA[116]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[EDACB]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[BEDAC]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[BDECA]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[CEDAB]]></ANSWER>
+</QUESTION>
+<QUESTION TYPE="COMPREHENSION@@MCQ">
+<KEYS/>
+<NAME><![CDATA[Directions for Questions 97 to 100; The sentences given in each question. when properly sequenced, form a<br/>coherent paragraph. Each sentence is labeled with a letter. Choose the most logical order of sentences front among<br/>the given choices to construct a coherent paragraph. @@&& A. But this does not mean that death wasthe Egyptians' only preoccupation.<br/>B. Even papyri eomemainly from pyramid temples.<br/>C. Most of our traditional sources of information about the Old Kingdom are monuments of the rich<br/>like pyramids and tombs.<br/>D. Houses in which ordinary Egyptians lived have not been preserved, and when most people died<br/>they were buried in simple graves.<br/>E. We know infinitely more about the wealthy people of Egypt than we do about the ordinary<br/>people, as most monuments were made for the rich.]]></NAME>
+<ID><![CDATA[117]]></ID>
+<ALLOTTEDMARKS><![CDATA[1]]></ALLOTTEDMARKS>
+<NEGATIVEMARKS><![CDATA[0]]></NEGATIVEMARKS>
+<ANSWER CORRECT="TRUE" VALUE="1"><![CDATA[CDBEA]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="2"><![CDATA[ ECDAB]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="3"><![CDATA[EDCBA]]></ANSWER>
+<ANSWER CORRECT="FALSE" VALUE="4"><![CDATA[DECAB]]></ANSWER>
+</QUESTION>
+</SECTION>
+</SECTIONDETAILS>
+</GROUP>
+</QUIZ>

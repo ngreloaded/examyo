@@ -1,0 +1,22 @@
+.clear{clear:both; margin:0; padding:0;}
+.diff_type_notation_area_outer{background:#9BB0BF; float:left;}
+.notation_type_description div{height:18px; padding-bottom:3px;}
+.diff_type_notation_area_inner span{background:url(../images/buttons-sprite.png) no-repeat; color:#262626; line-height:18px;}
+.diff_type_notation_area_inner span.answered{background-position:-4px -4px;float:left;height:18px;width:19px;}
+.diff_type_notation_area_inner span.review{background-position:-4px -26px;float:left;height:18px;width:19px;}
+.diff_type_notation_area_inner span.not_answered{background-position:-4px -52px;float:left;height:18px;width:19px;}
+.diff_type_notation_area_inner span.not_visited{background-position:-4px -78px;float:left;height:18px;width:19px;}
+.diff_type_notation_area_inner span.type_title{background:none;}
+.diff_type_notation_area_inner span.number{background:none;}
+.question_area span{background:url(../images/buttons-sprite.png) no-repeat; width:33px;height:30px; float:left; line-height:26px; text-align:center; margin-right:5px; cursor:pointer; color:#fff; font-weight:bold}
+.question_area span.answered{background-position:-74px -4px;width:35px }
+.question_area span.review{background-position:-33px -36px;height:35px;margin-top:2px;padding-top:2px;width:35px}
+.question_area span.review_answered{background-position:-70px -69px;height:40px;padding-top:6px;width:37px;width:35px}
+.question_area span.not_answered{background-position:-33px -4px;height:	35px;margin-top:5px;width:35px}
+.question_area span.not_visited{background-position:-33px -73px; color:#474747;height:35px;width:35px;margin-top:5px}
+.question_area span.not_visitedhover{background-position:-74px -39px;height:35px;width:35px;margin-top:5px}
+#tooltip_answered{background:url(../images/answered.png) no-repeat;width:33px ; height: 30px;float:left ; text-align:center;margin-right:5px; cursor:pointer; color:#fff;}
+#tooltip_not_answered{background:url(../images/not_answered.png) no-repeat;width:33px ; height: 30px;float:left ; text-align:center;margin-right:5px; cursor:pointer; color:#fff;}
+#tooltip_review{background:url(../images/review.png) no-repeat;width:33px ; height: 30px;float:left ; text-align:center;margin-right:5px; cursor:pointer; color:#fff;}
+#tooltip_not_visited{background:url(../images/not_visited.png) no-repeat;width:33px ; height: 30px;float:left ; text-align:center;margin-right:5px; cursor:pointer; color:#000;}
+#tooltip_reviewanswered{background:url(../images/review_answer.png) no-repeat;width:36px ; height: 37px;float:left ; text-align:left;margin-right:5px; cursor:pointer; color:#fff;}
